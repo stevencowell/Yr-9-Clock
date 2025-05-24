@@ -177,6 +177,25 @@
         padding: 0 5px;
         vertical-align: middle;
     }
+
+    /* Ensure all list texts are bold (except quiz lists) */
+    .content-section ul li,
+    .content-section ol li,
+    .resource-links ul li {
+      font-weight: bold;
+    }
+    /* Keep quiz list items normal weight */
+    .quiz li {
+      font-weight: normal;
+    }
+    .resource-links a {
+      font-weight: bold;
+    }
+
+
+
+/* Ensure all summary headings (list links) are bold */
+summary { font-weight: bold; }
 </style>
 </head>
 <body>
@@ -2134,6 +2153,8 @@ function sendResultsToSheet(studentName, quizNumber, score) {
         body: JSON.stringify(payload),
         headers: { "Content-Type": "application/json" }
     }).then(r => r.text()).then(() => {
+    var overlay = document.getElementById("redirectOverlay");
+    if (overlay) overlay.style.display = "block";
         // Optionally alert("Submitted!");
     }).catch(e => alert("Submission failed"));
 }
@@ -2273,6 +2294,8 @@ function sendResultsToSheet(studentName, quizNumber, score) {
         body: JSON.stringify(payload),
         headers: { "Content-Type": "application/json" }
     }).then(r => r.text()).then(() => {
+    var overlay = document.getElementById("redirectOverlay");
+    if (overlay) overlay.style.display = "block";
         // Optionally alert("Submitted!");
     }).catch(e => alert("Submission failed"));
 }
@@ -2324,6 +2347,8 @@ function sendResultsToSheet(studentName, quizNumber, score) {
         body: JSON.stringify(payload),
         headers: { "Content-Type": "application/json" }
     }).then(r => r.text()).then(() => {
+    var overlay = document.getElementById("redirectOverlay");
+    if (overlay) overlay.style.display = "block";
         // Optionally alert("Submitted!");
     }).catch(e => alert("Submission failed"));
 }
@@ -2364,6 +2389,9 @@ function sendResultsToSheet(studentName, quizNumber, score) {
               mode: 'no-cors',
               headers: { 'Content-Type': 'application/json' },
               body: JSON.stringify(payload)
+            }).then(() => {
+              var overlay = document.getElementById("redirectOverlay");
+              if (overlay) overlay.style.display = "block";
             }).catch(err =>
               console.error('Error sending data to Google Sheets for Week ' + week + ':', err)
             );
@@ -2384,8 +2412,79 @@ function sendResultsToSheet(studentName, quizNumber, score) {
         body: JSON.stringify(payload),
         headers: { "Content-Type": "application/json" }
     }).then(r => r.text()).then(() => {
+    var overlay = document.getElementById("redirectOverlay");
+    if (overlay) overlay.style.display = "block";
         // Optionally alert("Submitted!");
     }).catch(e => alert("Submission failed"));
 }
-</script></body>
+</script>
+<style>
+#redirectOverlay {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; width: 100vw; height: 100vh;
+    background: rgba(0,0,0,0.6);
+    z-index: 10000;
+}
+#redirectOverlay .overlay-content {
+    position: absolute;
+    top: 50%; left: 50%; transform: translate(-50%,-50%);
+    background: #fff;
+    padding: 2em 2.5em;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 20px #444;
+    font-size: 1.2em;
+    color: #222;
+    max-width: 90vw;
+}
+#goToGCBtn {
+    display: inline-block;
+    margin-top: 1.5em;
+    padding: 0.7em 2.5em;
+    background: #188038;
+    color: #fff;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#goToGCBtn:hover { background: #155e2d; }
+
+    /* Ensure all list texts are bold (except quiz lists) */
+    .content-section ul li,
+    .content-section ol li,
+    .resource-links ul li {
+      font-weight: bold;
+    }
+    /* Keep quiz list items normal weight */
+    .quiz li {
+      font-weight: normal;
+    }
+    .resource-links a {
+      font-weight: bold;
+    }
+
+</style>
+<div id="redirectOverlay">
+  <div class="overlay-content">
+    <b>Submitting your quiz...</b><br><br>Click <b>Return to Google Classroom</b> below, open the attached <i>Clock Quiz Tracking</i> sheet, record your mark for this week, then come back to this website to start the next quiz.<br><br><button id="goToGCBtn" onclick="window.location.href='https://classroom.google.com/c/NzQxODI2OTY5NTgy/a/Nzg0Njg2MzEwOTEw/details'">Return to Google Classroom now</button>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const overlay = document.getElementById('redirectOverlay');
+  document.querySelectorAll('form').forEach(form => {
+    form.addEventListener('submit', () => {
+      if (overlay) {
+        overlay.style.display = 'block';
+      }
+    });
+  });
+});
+</script>
+
+</body>
+
 </html>
