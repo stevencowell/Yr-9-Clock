@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='UTF-8'>
+<title>Week 8</title>
+<link rel='stylesheet' href='../style.css'>
+</head>
+<body>
+
+<details>
+<summary><strong>Week 8:</strong> Wood list and cost</summary>
+<article>
+<h4>List of parts</h4>
+<p>This week we made a list of every piece of wood we need. We wrote down each part name, its length, width, and thickness. This cutting list shows exactly how many of each piece to cut. It helps us make sure we have all the pieces for the clock.</p>
+<h4>Counting cost</h4>
+<p>We also made a table with each piece’s price. We multiplied the length of wood by its price per length to find the cost. Then we added up the costs to see the total. Knowing the cost helps us learn how much money is needed and to use wood wisely.</p>
+<form class="quiz" data-week="8" id="week8-quiz" style="margin-top: 1.5rem;">
+<fieldset>
+<legend><strong>Have you been paying attention? – Week 8 Quiz</strong></legend>
+<ol>
+<li>
+<p>What is a cutting list? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q8_1" type="radio" value="List of parts"/> A list of all parts and their sizes <button aria-label="Read answer A list of all parts and their sizes" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_1" type="radio" value="Shopping"/> A grocery list <button aria-label="Read answer A grocery list" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_1" type="radio" value="Tool list"/> A list of tools <button aria-label="Read answer A list of tools" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_1" type="radio" value="User guide"/> A user guide <button aria-label="Read answer A user guide" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>Why do we add up the cost of all wood pieces? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q8_2" type="radio" value="Budgeting"/> To know how much money we need <button aria-label="Read answer To know how much money we need" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_2" type="radio" value="History"/> To write history <button aria-label="Read answer To write history" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_2" type="radio" value="Recipe"/> To make a recipe <button aria-label="Read answer To make a recipe" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_2" type="radio" value="Video"/> To watch a video <button aria-label="Read answer To watch a video" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>What do we multiply to find the cost of wood? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q8_3" type="radio" value="Length x price"/> The length or area of wood times the price per length <button aria-label="Read answer The length or area of wood times the price per length" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_3" type="radio" value="Add lengths"/> Add all lengths of wood <button aria-label="Read answer Add all lengths of wood" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_3" type="radio" value="None"/> We don’t need to multiply <button aria-label="Read answer We don’t need to multiply" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_3" type="radio" value="Subtract"/> Subtract lengths <button aria-label="Read answer Subtract lengths" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>Why is it important to minimize waste of wood? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q8_4" type="radio" value="Save wood"/> To save wood and use less money <button aria-label="Read answer To save wood and use less money" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_4" type="radio" value="Scrap metal"/> To make more scrap metal <button aria-label="Read answer To make more scrap metal" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_4" type="radio" value="Add weight"/> To add weight to the clock <button aria-label="Read answer To add weight to the clock" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_4" type="radio" value="Color paint"/> To change paint color <button aria-label="Read answer To change paint color" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>What do we call the sheet where we list parts and costs? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q8_5" type="radio" value="Spreadsheet"/> A spreadsheet or table <button aria-label="Read answer A spreadsheet or table" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_5" type="radio" value="Poster"/> A poster <button aria-label="Read answer A poster" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_5" type="radio" value="Storybook"/> A storybook <button aria-label="Read answer A storybook" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q8_5" type="radio" value="Calendar"/> A calendar <button aria-label="Read answer A calendar" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+</ol>
+<button class="check-btn" type="button">Check answers</button>
+<span class="quiz-msg" id="week8-quiz-msg"></span>
+</fieldset>
+</form>
+<h4>Conclusion</h4>
+<p>We made a detailed list of all the clock parts and used a table (spreadsheet) to calculate cost. Adding up the prices of all pieces tells us the total cost. This helps us plan and make sure we don’t waste wood or money.</p>
+</article>
+</details>
+
+</body>
+</html>

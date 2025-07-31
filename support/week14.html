@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='UTF-8'>
+<title>Week 14</title>
+<link rel='stylesheet' href='../style.css'>
+</head>
+<body>
+
+<details>
+<summary><strong>Week 14:</strong> Quiz and feedback</summary>
+<article>
+<h4>Theory quiz</h4>
+<p>We take a short quiz on what we learned: safety, tools, wood and processes. This helps everyone review important ideas. We discuss any tricky questions after the quiz so everyone understands the answers.</p>
+<h4>Unit feedback</h4>
+<p>After the quiz, we talk about the project unit. Each student can say what they enjoyed and what they found hard. We also help each other by giving suggestions. This feedback helps the teacher improve the project for next time.</p>
+<form class="quiz" data-week="14" id="week14-quiz" style="margin-top: 1.5rem;">
+<fieldset>
+<legend><strong>Have you been paying attention? – Week 14 Quiz</strong></legend>
+<ol>
+<li>
+<p>What is the quiz on this week about? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q14_1" type="radio" value="Project topics"/> What we learned about safety, tools, and the clock project <button aria-label="Read answer What we learned about safety, tools, and the clock project" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_1" type="radio" value="Math only"/> Only about math <button aria-label="Read answer Only about math" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_1" type="radio" value="Random quiz"/> A random quiz unrelated <button aria-label="Read answer A random quiz unrelated" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_1" type="radio" value="Lunch menu"/> The lunch menu <button aria-label="Read answer The lunch menu" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>Why do we discuss feedback after the quiz? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q14_2" type="radio" value="Improve unit"/> To share what worked and how to improve the unit <button aria-label="Read answer To share what worked and how to improve the unit" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_2" type="radio" value="Shopping list"/> To write a shopping list <button aria-label="Read answer To write a shopping list" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_2" type="radio" value="No reason"/> For no reason <button aria-label="Read answer For no reason" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_2" type="radio" value="Always do test"/> Because tests are fun <button aria-label="Read answer Because tests are fun" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>What should we do after submitting the quiz? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q14_3" type="radio" value="Review answers"/> Review any questions we missed and learn from mistakes <button aria-label="Read answer Review any questions we missed and learn from mistakes" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_3" type="radio" value="Forget it"/> Forget about it <button aria-label="Read answer Forget about it" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_3" type="radio" value="Change quiz"/> Change the quiz answers <button aria-label="Read answer Change the quiz answers" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_3" type="radio" value="Sing song"/> Sing a song <button aria-label="Read answer Sing a song" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>Who can give feedback on the unit? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q14_4" type="radio" value="All students"/> All students in the class <button aria-label="Read answer All students in the class" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_4" type="radio" value="Only teacher"/> Only the teacher <button aria-label="Read answer Only the teacher" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_4" type="radio" value="Parents"/> Only parents <button aria-label="Read answer Only parents" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_4" type="radio" value="No one"/> No one should <button aria-label="Read answer No one should" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>What is the purpose of a quiz on learning topics? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q14_5" type="radio" value="Check knowledge"/> To check what we remember and learned <button aria-label="Read answer To check what we remember and learned" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_5" type="radio" value="Just for fun"/> Just for fun with no reason <button aria-label="Read answer Just for fun with no reason" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_5" type="radio" value="Rock song"/> To hear a rock song <button aria-label="Read answer To hear a rock song" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q14_5" type="radio" value="Pick numbers"/> To pick lottery numbers <button aria-label="Read answer To pick lottery numbers" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+</ol>
+<button class="check-btn" type="button">Check answers</button>
+<span class="quiz-msg" id="week14-quiz-msg"></span>
+</fieldset>
+</form>
+<h4>Conclusion</h4>
+<p>This week we reviewed everything and gave feedback on the project. The quiz helped us see what we remember, and talking about the unit helps everyone learn and have fun in the future.</p>
+</article>
+</details>
+
+</body>
+</html>

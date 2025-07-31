@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='UTF-8'>
+<title>Week 1</title>
+<link rel='stylesheet' href='../style.css'>
+</head>
+<body>
+
+<details>
+<summary><strong>Week 1:</strong> Safety and measuring wood</summary>
+<article>
+<h4>Safety first!</h4>
+<p>Always be safe when working with wood. Wear safety glasses and sturdy closed shoes. Keep the workshop tidy and put away pencils and tools after use. This keeps everyone safe and prevents trips or spills.</p>
+<h4>Measuring wood</h4>
+<p>We use a pencil and straight tools to mark wood before cutting. First, mark a “face” side and edge on your wood so all measurements start from the same spot. Remember: <strong>measure twice, cut once</strong>. This means check your measurement carefully before you cut. When you saw, cut on the waste side of the line (the part you don’t need) so the piece stays the right size.</p>
+<form class="quiz" data-week="1" id="week1-quiz" style="margin-top: 1.5rem;">
+<fieldset>
+<legend><strong>Have you been paying attention? – Week 1 Quiz</strong></legend>
+<ol>
+<li>
+<p>What should you wear in the workshop? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q1_1" type="radio" value="Safety glasses"/> Safety glasses <button aria-label="Read answer Safety glasses" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_1" type="radio" value="Sandals"/> Open-toed sandals <button aria-label="Read answer Open-toed sandals" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_1" type="radio" value="Cap"/> A cap or hat <button aria-label="Read answer A cap or hat" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_1" type="radio" value="No shirt"/> No shirt at all <button aria-label="Read answer No shirt at all" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>Which tool checks that your angle is 90°? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q1_2" type="radio" value="Try square"/> Try square <button aria-label="Read answer Try square" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_2" type="radio" value="Hammer"/> Hammer <button aria-label="Read answer Hammer" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_2" type="radio" value="Spoon"/> Spoon <button aria-label="Read answer Spoon" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_2" type="radio" value="Book"/> A book <button aria-label="Read answer A book" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>Why do we mark a "face" side of the wood? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q1_3" type="radio" value="Same spot"/> To measure and mark from the same spot every time <button aria-label="Read answer To measure and mark from the same spot every time" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_3" type="radio" value="Decoration"/> Because it looks decorative <button aria-label="Read answer Because it looks decorative" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_3" type="radio" value="Tree name"/> To write the tree’s name on it <button aria-label="Read answer To write the tree’s name on it" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_3" type="radio" value="Safety plan"/> It’s part of a safety plan <button aria-label="Read answer It’s part of a safety plan" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>Where should you cut the wood relative to your mark line? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q1_4" type="radio" value="Waste side"/> On the waste side of the line <button aria-label="Read answer On the waste side of the line" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_4" type="radio" value="Directly on"/> Directly on the line <button aria-label="Read answer Directly on the line" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_4" type="radio" value="Far away"/> Far from the line <button aria-label="Read answer Far from the line" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_4" type="radio" value="Does not matter"/> It does not matter <button aria-label="Read answer It does not matter" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+<li>
+<p>What should you use to hold wood when cutting? <button aria-label="Read question aloud" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></p>
+<label><input data-correct="true" name="q1_5" type="radio" value="Clamps"/> Clamps or vices <button aria-label="Read answer Clamps or vices" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_5" type="radio" value="Hands"/> Your hands only <button aria-label="Read answer Your hands only" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_5" type="radio" value="Glue"/> Glue it first <button aria-label="Read answer Glue it first" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label><br/>
+<label><input name="q1_5" type="radio" value="Feet"/> Your feet <button aria-label="Read answer Your feet" onclick="event.preventDefault(); speakText(this)" type="button">🔊</button></label>
+</li>
+</ol>
+<button class="check-btn" type="button">Check answers</button>
+<span class="quiz-msg" id="week1-quiz-msg"></span>
+</fieldset>
+</form>
+<h4>Conclusion</h4>
+<p>We learned to wear safety gear like glasses and to measure wood carefully. Mark one side of the wood and use clamps to hold it when cutting. Keep your area clean and be careful! These steps keep us safe and help make our measurements correct.</p>
+</article>
+</details>
+
+</body>
+</html>
