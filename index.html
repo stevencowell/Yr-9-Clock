@@ -3108,6 +3108,7 @@ function sendResultsToSheet(studentName, quizNumber, score) {
       score: score || ''
     };
     fetch(url, {
+      mode: 'no-cors',
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload)
@@ -3367,6 +3368,7 @@ function sendResultsToSheet(studentName, quizNumber, score) {
       score: score || ''
     };
     fetch(url, {
+      mode: 'no-cors',
       method: 'POST',
       body: JSON.stringify(payload),
       headers: { 'Content-Type': 'application/json' }
@@ -3420,6 +3422,7 @@ function sendResultsToSheet(studentName, quizNumber, score) {
       score: score || ''
     };
     fetch(url, {
+      mode: 'no-cors',
       method: 'POST',
       body: JSON.stringify(payload),
       headers: { 'Content-Type': 'application/json' }
@@ -3478,6 +3481,7 @@ function sendResultsToSheet(studentName, quizNumber, score) {
       score: score || ''
     };
     fetch(url, {
+      mode: 'no-cors',
       method: 'POST',
       body: JSON.stringify(payload),
       headers: { 'Content-Type': 'application/json' }
