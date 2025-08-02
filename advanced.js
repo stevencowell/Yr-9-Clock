@@ -4,8 +4,15 @@ async function submitAdv(e, week) {
   e.preventDefault();
   const form = e.target;
   const msg = form.querySelector('.msg');
-  const studentName = prompt('Please enter your name so we can record your Week ' + week + ' advanced activity:');
-  if (!studentName) return;
+  const nameInput = form.querySelector('[name="studentName"]');
+  const studentName = nameInput ? nameInput.value.trim() : '';
+  if (!studentName) {
+    if (msg) {
+      msg.textContent = 'Please enter your name.';
+      msg.style.color = 'red';
+    }
+    return;
+  }
 
   const answers = [];
   form.querySelectorAll('textarea').forEach((ta) => {
