@@ -1,231 +1,231 @@
 window.LESSON_CONFIG = {
-  "storageKey": "clock-weeks15-16-guided-v1",
+  "storageKey": "clock-weeks15-16-guided-v2",
   "resetLabel": "Weeks 15-16",
-  "title": "Clock Weeks 15-16"
+  "title": "Clock Weeks 15-16 Evidence"
 };
 window.MC_QUESTIONS = [
   {
-    "question": "Which statement best captures the main idea in \"Applying design principles to the Clock\"?",
+    "question": "A student is preparing for “Applying design principles to the Clock”. Which principle should control the decision?",
     "options": [
       "proportion, balance, emphasis, unity, contrast and function help judge the Clock as a whole",
       "a decorative choice can weaken unity or function if it ignores the project constraints",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Applying design principles to the Clock\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: proportion, balance, emphasis, unity, contrast and function help judge the Clock as a whole.",
+    "hint": "Return to the opening and key-idea statements in “Applying design principles to the Clock”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: proportion, balance, emphasis, unity, contrast and function help judge the Clock as a whole.",
     "feedback": [
-      "Correct. proportion, balance, emphasis, unity, contrast and function help judge the Clock as a whole.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "proportion, balance, emphasis, unity, contrast and function help judge the Clock as a whole",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Applying design principles to the Clock\" to the Clock?",
+    "question": "Before work continues in “Applying design principles to the Clock”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "compare any approved option against the brief rather than changing the design impulsively",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: compare any approved option against the brief rather than changing the design impulsively.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to compare any approved option against the brief rather than changing the design impulsively.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. compare any approved option against the brief rather than changing the design impulsively.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "compare any approved option against the brief rather than changing the design impulsively",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Applying design principles to the Clock”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "a decorative choice can weaken unity or function if it ignores the project constraints",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Applying design principles to the Clock”.",
     "strongHint": "The warning sign is: a decorative choice can weaken unity or function if it ignores the project constraints.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. a decorative choice can weaken unity or function if it ignores the project constraints.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "a decorative choice can weaken unity or function if it ignores the project constraints",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Applying design principles to the Clock” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "annotated sketches and a criteria-based design justification"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: annotated sketches and a criteria-based design justification.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: annotated sketches and a criteria-based design justification.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. annotated sketches and a criteria-based design justification."
+      "annotated sketches and a criteria-based design justification"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Technical sketches, orthographic views and clear communication\"?",
+    "question": "A student is preparing for “Technical sketches, orthographic views and clear communication”. Which principle should control the decision?",
     "options": [
       "drawings communicate shape, size, relationship and approved change more precisely than memory",
       "an attractive sketch without controlled dimensions may be unsuitable for manufacture",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Technical sketches, orthographic views and clear communication\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: drawings communicate shape, size, relationship and approved change more precisely than memory.",
+    "hint": "Return to the opening and key-idea statements in “Technical sketches, orthographic views and clear communication”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: drawings communicate shape, size, relationship and approved change more precisely than memory.",
     "feedback": [
-      "Correct. drawings communicate shape, size, relationship and approved change more precisely than memory.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "drawings communicate shape, size, relationship and approved change more precisely than memory",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Technical sketches, orthographic views and clear communication\" to the Clock?",
+    "question": "Before work continues in “Technical sketches, orthographic views and clear communication”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "use appropriate views, written dimensions, labels and annotations",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: use appropriate views, written dimensions, labels and annotations.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to use appropriate views, written dimensions, labels and annotations.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. use appropriate views, written dimensions, labels and annotations.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "use appropriate views, written dimensions, labels and annotations",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Technical sketches, orthographic views and clear communication”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "an attractive sketch without controlled dimensions may be unsuitable for manufacture",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Technical sketches, orthographic views and clear communication”.",
     "strongHint": "The warning sign is: an attractive sketch without controlled dimensions may be unsuitable for manufacture.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. an attractive sketch without controlled dimensions may be unsuitable for manufacture.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "an attractive sketch without controlled dimensions may be unsuitable for manufacture",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Technical sketches, orthographic views and clear communication” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "a dated drawing or sketch that another person can interpret accurately"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a dated drawing or sketch that another person can interpret accurately.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a dated drawing or sketch that another person can interpret accurately.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a dated drawing or sketch that another person can interpret accurately."
+      "a dated drawing or sketch that another person can interpret accurately"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Current and emerging timber technologies connected to the Clock\"?",
+    "question": "A student is preparing for “Current and emerging timber technologies connected to the Clock”. Which principle should control the decision?",
     "options": [
       "technology should be evaluated for accuracy, safety, waste, skill and access rather than assumed to be better",
       "naming a machine without analysing its effect does not meet the technology outcome",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Current and emerging timber technologies connected to the Clock\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: technology should be evaluated for accuracy, safety, waste, skill and access rather than assumed to be better.",
+    "hint": "Return to the opening and key-idea statements in “Current and emerging timber technologies connected to the Clock”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: technology should be evaluated for accuracy, safety, waste, skill and access rather than assumed to be better.",
     "feedback": [
-      "Correct. technology should be evaluated for accuracy, safety, waste, skill and access rather than assumed to be better.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "technology should be evaluated for accuracy, safety, waste, skill and access rather than assumed to be better",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Current and emerging timber technologies connected to the Clock\" to the Clock?",
+    "question": "Before work continues in “Current and emerging timber technologies connected to the Clock”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "compare the verified hand or school process with an appropriate industry method",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: compare the verified hand or school process with an appropriate industry method.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to compare the verified hand or school process with an appropriate industry method.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. compare the verified hand or school process with an appropriate industry method.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "compare the verified hand or school process with an appropriate industry method",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Current and emerging timber technologies connected to the Clock”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "naming a machine without analysing its effect does not meet the technology outcome",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Current and emerging timber technologies connected to the Clock”.",
     "strongHint": "The warning sign is: naming a machine without analysing its effect does not meet the technology outcome.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. naming a machine without analysing its effect does not meet the technology outcome.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "naming a machine without analysing its effect does not meet the technology outcome",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Current and emerging timber technologies connected to the Clock” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "a comparison table with benefit, limitation and suitable context"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a comparison table with benefit, limitation and suitable context.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a comparison table with benefit, limitation and suitable context.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a comparison table with benefit, limitation and suitable context."
+      "a comparison table with benefit, limitation and suitable context"
     ]
   }
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Apply: Applying design principles to the Clock",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "1. Diagnose: Applying design principles to the Clock",
+    "prompt": "A result shows this warning sign: “a decorative choice can weaken unity or function if it ignores the project constraints”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "design",
@@ -244,32 +244,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The warning sign suggests…",
+      "Before changing the work, I would…",
+      "My evidence would prove…"
     ],
     "prompts": [
-      "State the controlling idea from \"Applying design principles to the Clock\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Applying design principles to the Clock”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "A defensible design decision explains how the approved choice improves the Clock while still meeting function, manufacture and assessment requirements."
   },
   {
-    "title": "2. Apply: Technical sketches, orthographic views and clear communication",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "2. Prove: Technical sketches, orthographic views and clear communication",
+    "prompt": "Plan how “a dated drawing or sketch that another person can interpret accurately” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "orthographic",
@@ -288,32 +289,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The evidence should show…",
+      "This links to the approved process because…",
+      "It is convincing when…"
     ],
     "prompts": [
-      "State the controlling idea from \"Technical sketches, orthographic views and clear communication\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Technical sketches, orthographic views and clear communication”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "Clear technical communication selects the right view and makes the controlling information explicit without scaling the picture."
   },
   {
-    "title": "3. Apply: Current and emerging timber technologies connected to the Clock",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "3. Decision: Current and emerging timber technologies connected to the Clock",
+    "prompt": "Use one real Clock stage to explain why “technology should be evaluated for accuracy, safety, waste, skill and access rather than assumed to be better”. Describe the decision and how you would compare the verified hand or school process with an appropriate industry method.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "technology",
@@ -332,32 +334,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "At this Clock stage…",
+      "The controlling principle is…",
+      "I would verify it by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Current and emerging timber technologies connected to the Clock\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Current and emerging timber technologies connected to the Clock”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "A strong comparison explains what changes, what remains important and when the technology would or would not suit the Clock process."
   },
   {
-    "title": "4. Connect the two-week module",
-    "prompt": "Explain how the three topics in Weeks 15-16 work together to improve the safety, accuracy, quality or evidence of the Clock project.",
-    "minWords": 110,
+    "title": "4. Connect the week’s decisions",
+    "prompt": "Build a short decision chain for Weeks 15-16: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "minWords": 90,
     "concepts": [
       {
         "label": "Applying design principles to the Clock",
@@ -388,15 +391,15 @@ window.WRITTEN_QUESTIONS = [
       }
     ],
     "scaffold": [
-      "The first topic contributes by…",
-      "This connects with the second topic because…",
-      "Together, the three checks improve the Clock by…"
+      "First, I must verify…",
+      "The next approved step depends on…",
+      "The evidence that proves readiness is…"
     ],
     "prompts": [
-      "Include a specific idea from \"Applying design principles to the Clock\".",
-      "Include a specific idea from \"Technical sketches, orthographic views and clear communication\".",
-      "Include a specific idea from \"Current and emerging timber technologies connected to the Clock\"."
+      "Include one verified decision from “Applying design principles to the Clock”.",
+      "Include one verified decision from “Technical sketches, orthographic views and clear communication”.",
+      "Include one verified decision from “Current and emerging timber technologies connected to the Clock”."
     ],
-    "model": "Weeks 15-16 connect three parts of the same project. A defensible design decision explains how the approved choice improves the Clock while still meeting function, manufacture and assessment requirements. Clear technical communication selects the right view and makes the controlling information explicit without scaling the picture. A strong comparison explains what changes, what remains important and when the technology would or would not suit the Clock process. Together, these ideas improve the Clock because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Weeks 15-16 form a controlled sequence. A defensible design decision explains how the approved choice improves the Clock while still meeting function, manufacture and assessment requirements. Clear technical communication selects the right view and makes the controlling information explicit without scaling the picture. A strong comparison explains what changes, what remains important and when the technology would or would not suit the Clock process. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
   }
 ];

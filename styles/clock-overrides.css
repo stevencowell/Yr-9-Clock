@@ -34,6 +34,68 @@
   border-radius: 24px;
   box-shadow: 0 22px 46px rgba(0, 0, 0, .26);
   max-height: 300px;
+  width: 100%;
+  object-fit: contain;
+  background: #fff;
+  filter: none;
+}
+
+.hero-source {
+  margin: 1.5rem 0;
+  padding: .7rem;
+  border: 1px solid rgba(255,255,255,.36);
+  border-radius: 24px;
+  background: rgba(255,255,255,.12);
+  backdrop-filter: blur(8px);
+}
+
+.hero-source figcaption {
+  padding: .55rem .35rem .1rem;
+  color: #fff;
+  font-size: .76rem;
+  font-weight: 800;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+}
+
+.theory-rhythm {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: .75rem;
+  margin: .7rem 0 1.4rem;
+}
+
+.theory-rhythm span {
+  display: block;
+  padding: .8rem .9rem;
+  border: 1px solid #c8daeb;
+  border-radius: 12px;
+  background: #f5f9fd;
+  color: #52657b;
+  font-size: .86rem;
+  line-height: 1.42;
+}
+
+.theory-rhythm strong {
+  display: block;
+  margin-bottom: .25rem;
+  color: #073f75;
+  font-size: .72rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.textbook-section > p,
+.textbook-section > ol,
+.textbook-section > ul {
+  max-width: 78ch;
+}
+
+.resource-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: .65rem;
 }
 
 .landing-main {
@@ -106,6 +168,19 @@
 
   .clock-hero-product {
     border-radius: 18px;
+  }
+
+  .hero-source {
+    margin: 0 auto 1.5rem;
+    max-width: 420px;
+  }
+
+  .theory-rhythm {
+    grid-template-columns: 1fr;
+  }
+
+  .resource-actions {
+    justify-content: flex-start;
   }
 }
 

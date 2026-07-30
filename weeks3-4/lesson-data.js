@@ -1,231 +1,231 @@
 window.LESSON_CONFIG = {
-  "storageKey": "clock-weeks3-4-guided-v1",
+  "storageKey": "clock-weeks3-4-guided-v2",
   "resetLabel": "Weeks 3-4",
-  "title": "Clock Weeks 3-4"
+  "title": "Clock Weeks 3-4 Evidence"
 };
 window.MC_QUESTIONS = [
   {
-    "question": "Which statement best captures the main idea in \"Timber grain, structure and defects in Clock components\"?",
+    "question": "A student is preparing for “Timber grain, structure and defects in Clock components”. Which principle should control the decision?",
     "options": [
       "grain direction, stability and defects influence where a piece is suitable in the Clock",
       "placing a split, severe distortion or unsuitable feature in a critical area can reduce quality",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Timber grain, structure and defects in Clock components\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: grain direction, stability and defects influence where a piece is suitable in the Clock.",
+    "hint": "Return to the opening and key-idea statements in “Timber grain, structure and defects in Clock components”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: grain direction, stability and defects influence where a piece is suitable in the Clock.",
     "feedback": [
-      "Correct. grain direction, stability and defects influence where a piece is suitable in the Clock.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "grain direction, stability and defects influence where a piece is suitable in the Clock",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Timber grain, structure and defects in Clock components\" to the Clock?",
+    "question": "Before work continues in “Timber grain, structure and defects in Clock components”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "inspect and orient school-supplied timber before transferring approved dimensions",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: inspect and orient school-supplied timber before transferring approved dimensions.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to inspect and orient school-supplied timber before transferring approved dimensions.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. inspect and orient school-supplied timber before transferring approved dimensions.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "inspect and orient school-supplied timber before transferring approved dimensions",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Timber grain, structure and defects in Clock components”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "placing a split, severe distortion or unsuitable feature in a critical area can reduce quality",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Timber grain, structure and defects in Clock components”.",
     "strongHint": "The warning sign is: placing a split, severe distortion or unsuitable feature in a critical area can reduce quality.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. placing a split, severe distortion or unsuitable feature in a critical area can reduce quality.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "placing a split, severe distortion or unsuitable feature in a critical area can reduce quality",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Timber grain, structure and defects in Clock components” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "an annotated timber photo showing grain, defects and the placement decision"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: an annotated timber photo showing grain, defects and the placement decision.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: an annotated timber photo showing grain, defects and the placement decision.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. an annotated timber photo showing grain, defects and the placement decision."
+      "an annotated timber photo showing grain, defects and the placement decision"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Planning and drilling the Clock face opening\"?",
+    "question": "A student is preparing for “Writing a Work Method Statement for the Clock”. Which principle should control the decision?",
     "options": [
-      "the Clock face opening must be located accurately and produced using the actual school SOP",
-      "an off-centre or poorly secured setup can damage the face and create a serious hazard",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "a WMS sets out a logical Clock sequence with hazards, controls and evidence checkpoints",
+      "a generic list of PPE does not explain how the Clock work will be managed",
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Planning and drilling the Clock face opening\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: the Clock face opening must be located accurately and produced using the actual school SOP.",
+    "hint": "Return to the opening and key-idea statements in “Writing a Work Method Statement for the Clock”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: a WMS sets out a logical Clock sequence with hazards, controls and evidence checkpoints.",
     "feedback": [
-      "Correct. the Clock face opening must be located accurately and produced using the actual school SOP.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "a WMS sets out a logical Clock sequence with hazards, controls and evidence checkpoints",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Planning and drilling the Clock face opening\" to the Clock?",
+    "question": "Before work continues in “Writing a Work Method Statement for the Clock”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
-      "confirm the centre, approved size, work holding and machine setup with the drawing and teacher",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Continue immediately so the project stays on schedule.",
+      "link every planned stage to the drawing, approved procedure and quality check",
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: confirm the centre, approved size, work holding and machine setup with the drawing and teacher.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to link every planned stage to the drawing, approved procedure and quality check.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. confirm the centre, approved size, work holding and machine setup with the drawing and teacher.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "link every planned stage to the drawing, approved procedure and quality check",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Writing a Work Method Statement for the Clock”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
-      "an off-centre or poorly secured setup can damage the face and create a serious hazard",
-      "The student compares the result with the brief."
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
+      "a generic list of PPE does not explain how the Clock work will be managed",
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
-    "strongHint": "The warning sign is: an off-centre or poorly secured setup can damage the face and create a serious hazard.",
+    "hint": "Identify the specific failure connected with “Writing a Work Method Statement for the Clock”.",
+    "strongHint": "The warning sign is: a generic list of PPE does not explain how the Clock work will be managed.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. an off-centre or poorly secured setup can damage the face and create a serious hazard.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "a generic list of PPE does not explain how the Clock work will be managed",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Writing a Work Method Statement for the Clock” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
-      "a pre-start check and photograph of the marked, secured work before operation"
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
+      "a stage-by-stage WMS that names controls and evidence"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a pre-start check and photograph of the marked, secured work before operation.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a stage-by-stage WMS that names controls and evidence.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a pre-start check and photograph of the marked, secured work before operation."
+      "a stage-by-stage WMS that names controls and evidence"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Rebate joints in the Clock carcass\"?",
+    "question": "A student is preparing for “Cutting lists, material calculations and cost planning”. Which principle should control the decision?",
     "options": [
-      "a rebate forms a controlled step that locates a mating part and can increase alignment and gluing area",
-      "an uneven or over-sized rebate can cause gaps, misalignment or a proud panel",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "a cutting list turns drawing information into controlled components, quantities and material requirements",
+      "scaled guesses or missing quantities can waste timber and make a cost estimate unreliable",
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Rebate joints in the Clock carcass\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: a rebate forms a controlled step that locates a mating part and can increase alignment and gluing area.",
+    "hint": "Return to the opening and key-idea statements in “Cutting lists, material calculations and cost planning”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: a cutting list turns drawing information into controlled components, quantities and material requirements.",
     "feedback": [
-      "Correct. a rebate forms a controlled step that locates a mating part and can increase alignment and gluing area.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "a cutting list turns drawing information into controlled components, quantities and material requirements",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Rebate joints in the Clock carcass\" to the Clock?",
+    "question": "Before work continues in “Cutting lists, material calculations and cost planning”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
-      "check the shoulder, depth and fit against the drawing before assembly",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Continue immediately so the project stays on schedule.",
+      "use written dimensions, approved stock information and current prices",
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: check the shoulder, depth and fit against the drawing before assembly.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to use written dimensions, approved stock information and current prices.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. check the shoulder, depth and fit against the drawing before assembly.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "use written dimensions, approved stock information and current prices",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Cutting lists, material calculations and cost planning”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
-      "an uneven or over-sized rebate can cause gaps, misalignment or a proud panel",
-      "The student compares the result with the brief."
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
+      "scaled guesses or missing quantities can waste timber and make a cost estimate unreliable",
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
-    "strongHint": "The warning sign is: an uneven or over-sized rebate can cause gaps, misalignment or a proud panel.",
+    "hint": "Identify the specific failure connected with “Cutting lists, material calculations and cost planning”.",
+    "strongHint": "The warning sign is: scaled guesses or missing quantities can waste timber and make a cost estimate unreliable.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. an uneven or over-sized rebate can cause gaps, misalignment or a proud panel.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "scaled guesses or missing quantities can waste timber and make a cost estimate unreliable",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Cutting lists, material calculations and cost planning” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
-      "a close-up dry-fit photo with a caption explaining the shoulder and flush fit"
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
+      "a checked cutting list with planned and actual material use"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a close-up dry-fit photo with a caption explaining the shoulder and flush fit.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a checked cutting list with planned and actual material use.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a close-up dry-fit photo with a caption explaining the shoulder and flush fit."
+      "a checked cutting list with planned and actual material use"
     ]
   }
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Apply: Timber grain, structure and defects in Clock components",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "1. Diagnose: Timber grain, structure and defects in Clock components",
+    "prompt": "A result shows this warning sign: “placing a split, severe distortion or unsuitable feature in a critical area can reduce quality”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "grain",
@@ -244,38 +244,39 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The warning sign suggests…",
+      "Before changing the work, I would…",
+      "My evidence would prove…"
     ],
     "prompts": [
-      "State the controlling idea from \"Timber grain, structure and defects in Clock components\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Timber grain, structure and defects in Clock components”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "Inspecting grain and defects helps the student position or reject a piece for a reason rather than assuming every natural feature is harmless or unusable."
   },
   {
-    "title": "2. Apply: Planning and drilling the Clock face opening",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "2. Diagnose: Writing a Work Method Statement for the Clock",
+    "prompt": "A result shows this warning sign: “a generic list of PPE does not explain how the Clock work will be managed”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "minWords": 65,
     "concepts": [
       {
-        "label": "opening",
+        "label": "WMS",
         "terms": [
-          "opening",
-          "centre"
+          "WMS",
+          "sequence"
         ]
       },
       {
@@ -288,38 +289,39 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The warning sign suggests…",
+      "Before changing the work, I would…",
+      "My evidence would prove…"
     ],
     "prompts": [
-      "State the controlling idea from \"Planning and drilling the Clock face opening\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Writing a Work Method Statement for the Clock”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
-    "model": "A sound plan proves the opening location, secures the work and follows the approved drill press procedure without inventing settings."
+    "model": "The WMS should show what happens, in what approved order, what could go wrong, how it is controlled and what proves the stage is complete."
   },
   {
-    "title": "3. Apply: Rebate joints in the Clock carcass",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "3. Decision: Cutting lists, material calculations and cost planning",
+    "prompt": "Use one real Clock stage to explain why “a cutting list turns drawing information into controlled components, quantities and material requirements”. Describe the decision and how you would use written dimensions, approved stock information and current prices.",
+    "minWords": 65,
     "concepts": [
       {
-        "label": "rebate",
+        "label": "cutting list",
         "terms": [
-          "rebate",
-          "shoulder"
+          "cutting list",
+          "quantity"
         ]
       },
       {
@@ -332,32 +334,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "At this Clock stage…",
+      "The controlling principle is…",
+      "I would verify it by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Rebate joints in the Clock carcass\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Cutting lists, material calculations and cost planning”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
-    "model": "The rebate is successful when its verified position and size locate the mating part cleanly without forcing, gaps or unwanted projection."
+    "model": "The cutting list should be traceable to the drawing and make quantities, dimensions and material use clear without invented stock sizes or prices."
   },
   {
-    "title": "4. Connect the two-week module",
-    "prompt": "Explain how the three topics in Weeks 3-4 work together to improve the safety, accuracy, quality or evidence of the Clock project.",
-    "minWords": 110,
+    "title": "4. Connect the week’s decisions",
+    "prompt": "Build a short decision chain for Weeks 3-4: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "minWords": 90,
     "concepts": [
       {
         "label": "Timber grain, structure and defects in Clock components",
@@ -369,34 +372,34 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "Planning and drilling the Clock face opening",
+        "label": "Writing a Work Method Statement for the Clock",
         "terms": [
-          "opening",
-          "centre",
-          "clamp",
-          "SOP"
+          "WMS",
+          "sequence",
+          "hazard",
+          "checkpoint"
         ]
       },
       {
-        "label": "Rebate joints in the Clock carcass",
+        "label": "Cutting lists, material calculations and cost planning",
         "terms": [
-          "rebate",
-          "shoulder",
-          "depth",
-          "fit"
+          "cutting list",
+          "quantity",
+          "cost",
+          "waste"
         ]
       }
     ],
     "scaffold": [
-      "The first topic contributes by…",
-      "This connects with the second topic because…",
-      "Together, the three checks improve the Clock by…"
+      "First, I must verify…",
+      "The next approved step depends on…",
+      "The evidence that proves readiness is…"
     ],
     "prompts": [
-      "Include a specific idea from \"Timber grain, structure and defects in Clock components\".",
-      "Include a specific idea from \"Planning and drilling the Clock face opening\".",
-      "Include a specific idea from \"Rebate joints in the Clock carcass\"."
+      "Include one verified decision from “Timber grain, structure and defects in Clock components”.",
+      "Include one verified decision from “Writing a Work Method Statement for the Clock”.",
+      "Include one verified decision from “Cutting lists, material calculations and cost planning”."
     ],
-    "model": "Weeks 3-4 connect three parts of the same project. Inspecting grain and defects helps the student position or reject a piece for a reason rather than assuming every natural feature is harmless or unusable. A sound plan proves the opening location, secures the work and follows the approved drill press procedure without inventing settings. The rebate is successful when its verified position and size locate the mating part cleanly without forcing, gaps or unwanted projection. Together, these ideas improve the Clock because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Weeks 3-4 form a controlled sequence. Inspecting grain and defects helps the student position or reject a piece for a reason rather than assuming every natural feature is harmless or unusable. The WMS should show what happens, in what approved order, what could go wrong, how it is controlled and what proves the stage is complete. The cutting list should be traceable to the drawing and make quantities, dimensions and material use clear without invented stock sizes or prices. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
   }
 ];

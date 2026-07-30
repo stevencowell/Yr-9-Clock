@@ -112,24 +112,25 @@
     const lines = [];
     const add = (text = '', style = 'body') => lines.push({ text, style });
     add(config.title || document.title, 'title');
-    add(`Student: ${state.studentName || 'Not provided'}`);
+    add(`Student: ${`${state.studentFirstName} ${state.studentLastName}`.trim() || 'Not provided'}`);
     add(`Class: ${state.studentClass || 'Not provided'}`);
-    add(`Downloaded: ${new Date().toLocaleDateString('en-AU')}`);
+    add(`Evidence PDF created: ${new Date().toLocaleDateString('en-AU')}`);
     add('');
     add('Knowledge checks', 'heading');
     mcQuestions.forEach((item, index) => {
       const saved = state.mc[index] || {};
       const answer = Number.isInteger(saved.selected) ? item.options[saved.selected] : 'No answer recorded';
-      add(`${index + 1}. ${item.question}`, 'label');
+      wrapPdfText(`${index + 1}. ${item.question}`, 80).forEach(text => add(text, 'label'));
       wrapPdfText(`Response: ${answer}`).forEach(text => add(text));
+      add(`Status: ${saved.mastered ? 'Mastered' : 'Not yet mastered'}`);
     });
     add('');
-    add('Extended responses', 'heading');
+    add('Scaffolded written responses', 'heading');
     writtenQuestions.forEach((item, index) => {
       const saved = state.written[index] || {};
-      add(item.title, 'label');
-      wrapPdfText(item.prompt).forEach(text => add(text));
-      wrapPdfText(`Student response: ${saved.response || 'No response recorded.'}`).forEach(text => add(text));
+      wrapPdfText(item.title, 80).forEach(text => add(text, 'label'));
+      wrapPdfText(item.prompt, 80).forEach(text => add(text));
+      wrapPdfText(`Student response: ${saved.response || 'No response recorded.'}`, 80).forEach(text => add(text));
       add(`Self-assessment: ${Number.isInteger(saved.selfScore) ? `${saved.selfScore}/3` : 'Not selected'}`);
       add('');
     });
@@ -491,10 +492,10 @@
 
     const printButton = document.getElementById('print-button');
     if (printButton) {
-      printButton.textContent = 'Print / Save PDF';
+      printButton.textContent = 'Download evidence PDF';
       printButton.addEventListener('click', () => {
       autoGrowAllTextareas();
-      saveState('Saved – opening print view');
+      saveState('Saved – downloading evidence PDF');
       downloadPdf();
       });
     }

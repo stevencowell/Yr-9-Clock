@@ -1,13 +1,18 @@
 # Clock guided-course asset sources
 
-## Project-specific source assets
+## Authoritative project sources
 
-- `Clock.png`, `Drawing 1 (1).pdf`, `Clock Assessment Criteria.pdf`, `knot and clean timber.png`, `hazard control triangle.png`, `square-6010259_1280.jpg` and `Tool Rack.png` came from the existing `stevencowell/Yr-9-Clock` project materials.
-- `assets/clock-plan-overview.png` is a local PNG rendering of `Drawing 1 (1).pdf` for accessible on-page viewing. The PDF remains the controlling drawing.
+- `Drawing 1 (1).pdf` is the supplied Clock working drawing. Its written dimensions and notes control geometry; the drawing states `DO NOT SCALE DRAWING`.
+- `Clock Assessment Criteria.pdf` is the approved assessment brief used for the required project features, evidence and assessment weighting.
+- `assets/clock-plan-overview.png` is a page rendering of the supplied drawing for accessible on-page viewing. It does not replace the PDF.
+- `assets/reference/clock-assessment-requirements.png` is a rendering of the assessment page that lists the Clock project requirements.
+- `assets/reference/timber-defects.png` is the existing Clock-source comparison of clear timber and a visible knot.
+
+The landing page, module banners and high-risk folio guides use these authoritative sources rather than an unverified product rendering.
 
 ## Construction Supplementary Materials references
 
-The following images were copied from the existing local `Construction-Supplementary-material-main` educational repository. They are used only where they clarify a named Clock theory section, with an on-page caption that explains the context:
+The following images came from the existing local Construction Supplementary Material educational repository. Each is used only where it clarifies a named Clock theory section; captions state its limited context:
 
 - `assets/reference/f-clamps.jpeg`
 - `assets/reference/hand-plane.jpeg`
@@ -19,8 +24,12 @@ The following images were copied from the existing local `Construction-Supplemen
 - `assets/reference/tenon-saw.jpg`
 - `assets/reference/woodwork-vice.jpg`
 
-The bricklaying, civil-construction, scaffolding and unrelated tool images in that repository were deliberately excluded.
+These images do not establish Clock dimensions, machine settings or a local operating procedure.
 
-## Generated infographic deck
+## Twelve-card folio visual system
 
-`assets/folio/cards/01-*.png` to `12-*.png` are the twelve Clock-specific folio infographic cards generated through the signed-in ChatGPT session in the Codex in-app browser. Their prompts were grounded in the supplied Clock reference image and verified assessment requirements.
+The folio contains exactly twelve guide cards in one locked visual frame.
+
+- Cards 2, 3, 5, 6, 7 and 9 deliberately show the supplied drawing, approved assessment requirements or hierarchy-of-controls reference because generated product geometry could not be treated as authoritative.
+- Cards 1, 4, 8, 10, 11 and 12 retain the ChatGPT-generated evidence/process diagrams created one at a time in the signed-in in-app browser. They are labelled as evidence guides, not working drawings.
+- Every guide caption tells students which source controls the project claim or procedure.

@@ -1,0 +1,47 @@
+.clock-folio-hero {
+  background:
+    linear-gradient(100deg, #073969f2 0%, #0c66a4e8 56%, #07396988 100%),
+    url("../assets/clock-plan-overview.png") right 8% center / auto 92% no-repeat,
+    #073969;
+}
+
+.folio-card-graphic {
+  position: relative;
+  border: 1px solid #b9cde1;
+  background: #f7fbff;
+}
+
+.folio-card-graphic::before {
+  content: "Clock evidence guide";
+  display: block;
+  padding: .55rem .85rem;
+  background: #073f75;
+  color: #fff;
+  font-size: .74rem;
+  font-weight: 800;
+  letter-spacing: .09em;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.folio-card-graphic.source-authority::before {
+  content: "Authoritative project source";
+  background: #76501f;
+}
+
+.folio-card-graphic.source-authority img {
+  max-height: 580px;
+  object-fit: contain;
+  background: #fff;
+}
+
+.folio-card-graphic figcaption strong {
+  color: #073f75;
+}
+
+@media (max-width: 760px) {
+  .clock-folio-hero {
+    background: #073969;
+  }
+}
+

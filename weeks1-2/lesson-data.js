@@ -1,231 +1,231 @@
 window.LESSON_CONFIG = {
-  "storageKey": "clock-weeks1-2-guided-v1",
+  "storageKey": "clock-weeks1-2-guided-v2",
   "resetLabel": "Weeks 1-2",
-  "title": "Clock Weeks 1-2"
+  "title": "Clock Weeks 1-2 Evidence"
 };
 window.MC_QUESTIONS = [
   {
-    "question": "Which statement best captures the main idea in \"Understanding the Clock project brief and success criteria\"?",
+    "question": "A student is preparing for “Understanding the Clock project brief and success criteria”. Which principle should control the decision?",
     "options": [
       "success combines a safe, accurate Clock with clear planning and evaluation evidence",
       "a finished object with missing planning or poor accuracy does not fully meet the brief",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Understanding the Clock project brief and success criteria\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: success combines a safe, accurate Clock with clear planning and evaluation evidence.",
+    "hint": "Return to the opening and key-idea statements in “Understanding the Clock project brief and success criteria”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: success combines a safe, accurate Clock with clear planning and evaluation evidence.",
     "feedback": [
-      "Correct. success combines a safe, accurate Clock with clear planning and evaluation evidence.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "success combines a safe, accurate Clock with clear planning and evaluation evidence",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Understanding the Clock project brief and success criteria\" to the Clock?",
+    "question": "Before work continues in “Understanding the Clock project brief and success criteria”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "check the work and evidence against the assessment brief",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: check the work and evidence against the assessment brief.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to check the work and evidence against the assessment brief.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. check the work and evidence against the assessment brief.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "check the work and evidence against the assessment brief",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Understanding the Clock project brief and success criteria”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "a finished object with missing planning or poor accuracy does not fully meet the brief",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Understanding the Clock project brief and success criteria”.",
     "strongHint": "The warning sign is: a finished object with missing planning or poor accuracy does not fully meet the brief.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. a finished object with missing planning or poor accuracy does not fully meet the brief.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "a finished object with missing planning or poor accuracy does not fully meet the brief",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Understanding the Clock project brief and success criteria” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "a completed criteria checklist supported by process evidence"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a completed criteria checklist supported by process evidence.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a completed criteria checklist supported by process evidence.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a completed criteria checklist supported by process evidence."
+      "a completed criteria checklist supported by process evidence"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Reading the Clock working drawing without scaling\"?",
+    "question": "A student is preparing for “Reading the Clock working drawing without scaling”. Which principle should control the decision?",
     "options": [
       "written dimensions and notes control manufacture, not a ruler measurement taken from a resized picture",
       "using the right number on the wrong feature can still produce an incorrect component",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Reading the Clock working drawing without scaling\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: written dimensions and notes control manufacture, not a ruler measurement taken from a resized picture.",
+    "hint": "Return to the opening and key-idea statements in “Reading the Clock working drawing without scaling”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: written dimensions and notes control manufacture, not a ruler measurement taken from a resized picture.",
     "feedback": [
-      "Correct. written dimensions and notes control manufacture, not a ruler measurement taken from a resized picture.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "written dimensions and notes control manufacture, not a ruler measurement taken from a resized picture",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Reading the Clock working drawing without scaling\" to the Clock?",
+    "question": "Before work continues in “Reading the Clock working drawing without scaling”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "trace extension lines and cross-check the related views before marking out",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: trace extension lines and cross-check the related views before marking out.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to trace extension lines and cross-check the related views before marking out.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. trace extension lines and cross-check the related views before marking out.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "trace extension lines and cross-check the related views before marking out",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Reading the Clock working drawing without scaling”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "using the right number on the wrong feature can still produce an incorrect component",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Reading the Clock working drawing without scaling”.",
     "strongHint": "The warning sign is: using the right number on the wrong feature can still produce an incorrect component.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. using the right number on the wrong feature can still produce an incorrect component.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "using the right number on the wrong feature can still produce an incorrect component",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Reading the Clock working drawing without scaling” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "a marked component cross-checked against the written drawing"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a marked component cross-checked against the written drawing.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a marked component cross-checked against the written drawing.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a marked component cross-checked against the written drawing."
+      "a marked component cross-checked against the written drawing"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Managing workshop hazards and risks for the Clock\"?",
+    "question": "A student is preparing for “Managing workshop hazards and risks for the Clock”. Which principle should control the decision?",
     "options": [
       "a hazard can cause harm, risk considers likelihood and consequence, and controls reduce exposure",
       "treating PPE as the only control leaves the hazard and unsafe setup unchanged",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Managing workshop hazards and risks for the Clock\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: a hazard can cause harm, risk considers likelihood and consequence, and controls reduce exposure.",
+    "hint": "Return to the opening and key-idea statements in “Managing workshop hazards and risks for the Clock”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: a hazard can cause harm, risk considers likelihood and consequence, and controls reduce exposure.",
     "feedback": [
-      "Correct. a hazard can cause harm, risk considers likelihood and consequence, and controls reduce exposure.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "a hazard can cause harm, risk considers likelihood and consequence, and controls reduce exposure",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Managing workshop hazards and risks for the Clock\" to the Clock?",
+    "question": "Before work continues in “Managing workshop hazards and risks for the Clock”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "use the hierarchy and the approved SOP before relying on PPE",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: use the hierarchy and the approved SOP before relying on PPE.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to use the hierarchy and the approved SOP before relying on PPE.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. use the hierarchy and the approved SOP before relying on PPE.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "use the hierarchy and the approved SOP before relying on PPE",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Managing workshop hazards and risks for the Clock”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "treating PPE as the only control leaves the hazard and unsafe setup unchanged",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Managing workshop hazards and risks for the Clock”.",
     "strongHint": "The warning sign is: treating PPE as the only control leaves the hazard and unsafe setup unchanged.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. treating PPE as the only control leaves the hazard and unsafe setup unchanged.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "treating PPE as the only control leaves the hazard and unsafe setup unchanged",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Managing workshop hazards and risks for the Clock” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "a stage-specific hazard-control record linked to the approved procedure"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a stage-specific hazard-control record linked to the approved procedure.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a stage-specific hazard-control record linked to the approved procedure.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a stage-specific hazard-control record linked to the approved procedure."
+      "a stage-specific hazard-control record linked to the approved procedure"
     ]
   }
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Apply: Understanding the Clock project brief and success criteria",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "1. Diagnose: Understanding the Clock project brief and success criteria",
+    "prompt": "A result shows this warning sign: “a finished object with missing planning or poor accuracy does not fully meet the brief”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "brief",
@@ -244,32 +244,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The warning sign suggests…",
+      "Before changing the work, I would…",
+      "My evidence would prove…"
     ],
     "prompts": [
-      "State the controlling idea from \"Understanding the Clock project brief and success criteria\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Understanding the Clock project brief and success criteria”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "The Clock meets the brief when its verified features function well and the student can prove how the work was planned, made and evaluated."
   },
   {
-    "title": "2. Apply: Reading the Clock working drawing without scaling",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "2. Prove: Reading the Clock working drawing without scaling",
+    "prompt": "Plan how “a marked component cross-checked against the written drawing” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "dimension",
@@ -288,32 +289,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The evidence should show…",
+      "This links to the approved process because…",
+      "It is convincing when…"
     ],
     "prompts": [
-      "State the controlling idea from \"Reading the Clock working drawing without scaling\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Reading the Clock working drawing without scaling”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "The student should identify the view, trace the dimension line to the controlled surfaces and use the written millimetre value rather than scaling the image."
   },
   {
-    "title": "3. Apply: Managing workshop hazards and risks for the Clock",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "3. Decision: Managing workshop hazards and risks for the Clock",
+    "prompt": "Use one real Clock stage to explain why “a hazard can cause harm, risk considers likelihood and consequence, and controls reduce exposure”. Describe the decision and how you would use the hierarchy and the approved SOP before relying on PPE.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "hazard",
@@ -332,32 +334,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "At this Clock stage…",
+      "The controlling principle is…",
+      "I would verify it by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Managing workshop hazards and risks for the Clock\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Managing workshop hazards and risks for the Clock”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "The strongest response identifies the hazard, describes the possible harm and applies higher-order controls, teacher direction and PPE in the correct role."
   },
   {
-    "title": "4. Connect the two-week module",
-    "prompt": "Explain how the three topics in Weeks 1-2 work together to improve the safety, accuracy, quality or evidence of the Clock project.",
-    "minWords": 110,
+    "title": "4. Connect the week’s decisions",
+    "prompt": "Build a short decision chain for Weeks 1-2: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "minWords": 90,
     "concepts": [
       {
         "label": "Understanding the Clock project brief and success criteria",
@@ -388,15 +391,15 @@ window.WRITTEN_QUESTIONS = [
       }
     ],
     "scaffold": [
-      "The first topic contributes by…",
-      "This connects with the second topic because…",
-      "Together, the three checks improve the Clock by…"
+      "First, I must verify…",
+      "The next approved step depends on…",
+      "The evidence that proves readiness is…"
     ],
     "prompts": [
-      "Include a specific idea from \"Understanding the Clock project brief and success criteria\".",
-      "Include a specific idea from \"Reading the Clock working drawing without scaling\".",
-      "Include a specific idea from \"Managing workshop hazards and risks for the Clock\"."
+      "Include one verified decision from “Understanding the Clock project brief and success criteria”.",
+      "Include one verified decision from “Reading the Clock working drawing without scaling”.",
+      "Include one verified decision from “Managing workshop hazards and risks for the Clock”."
     ],
-    "model": "Weeks 1-2 connect three parts of the same project. The Clock meets the brief when its verified features function well and the student can prove how the work was planned, made and evaluated. The student should identify the view, trace the dimension line to the controlled surfaces and use the written millimetre value rather than scaling the image. The strongest response identifies the hazard, describes the possible harm and applies higher-order controls, teacher direction and PPE in the correct role. Together, these ideas improve the Clock because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Weeks 1-2 form a controlled sequence. The Clock meets the brief when its verified features function well and the student can prove how the work was planned, made and evaluated. The student should identify the view, trace the dimension line to the controlled surfaces and use the written millimetre value rather than scaling the image. The strongest response identifies the hazard, describes the possible harm and applies higher-order controls, teacher direction and PPE in the correct role. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
   }
 ];

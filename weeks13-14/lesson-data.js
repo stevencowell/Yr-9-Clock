@@ -1,231 +1,231 @@
 window.LESSON_CONFIG = {
-  "storageKey": "clock-weeks13-14-guided-v1",
+  "storageKey": "clock-weeks13-14-guided-v2",
   "resetLabel": "Weeks 13-14",
-  "title": "Clock Weeks 13-14"
+  "title": "Clock Weeks 13-14 Evidence"
 };
 window.MC_QUESTIONS = [
   {
-    "question": "Which statement best captures the main idea in \"Planning the three-coat oil finish\"?",
+    "question": "A student is preparing for “Planning the three-coat oil finish”. Which principle should control the decision?",
     "options": [
       "the verified finish requires three controlled coats planned from the selected product information",
       "copying a drying time or disposal method from another product can be unsafe and damage quality",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Planning the three-coat oil finish\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: the verified finish requires three controlled coats planned from the selected product information.",
+    "hint": "Return to the opening and key-idea statements in “Planning the three-coat oil finish”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: the verified finish requires three controlled coats planned from the selected product information.",
     "feedback": [
-      "Correct. the verified finish requires three controlled coats planned from the selected product information.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "the verified finish requires three controlled coats planned from the selected product information",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Planning the three-coat oil finish\" to the Clock?",
+    "question": "Before work continues in “Planning the three-coat oil finish”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "use the label, SDS and teacher direction for preparation, timing and application",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: use the label, SDS and teacher direction for preparation, timing and application.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to use the label, SDS and teacher direction for preparation, timing and application.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. use the label, SDS and teacher direction for preparation, timing and application.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "use the label, SDS and teacher direction for preparation, timing and application",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Planning the three-coat oil finish”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "copying a drying time or disposal method from another product can be unsafe and damage quality",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Planning the three-coat oil finish”.",
     "strongHint": "The warning sign is: copying a drying time or disposal method from another product can be unsafe and damage quality.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. copying a drying time or disposal method from another product can be unsafe and damage quality.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "copying a drying time or disposal method from another product can be unsafe and damage quality",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Planning the three-coat oil finish” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "a three-coat record with date, observation and next-stage decision"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a three-coat record with date, observation and next-stage decision.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a three-coat record with date, observation and next-stage decision.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a three-coat record with date, observation and next-stage decision."
+      "a three-coat record with date, observation and next-stage decision"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Oil finish safety, application and between-coat quality\"?",
+    "question": "A student is preparing for “Oil finish safety, application and between-coat quality”. Which principle should control the decision?",
     "options": [
       "safe finishing combines product controls with thin, even coverage and inspection between coats",
       "missed areas, heavy build or unsafe waste handling cannot be corrected by appearance alone",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Oil finish safety, application and between-coat quality\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: safe finishing combines product controls with thin, even coverage and inspection between coats.",
+    "hint": "Return to the opening and key-idea statements in “Oil finish safety, application and between-coat quality”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: safe finishing combines product controls with thin, even coverage and inspection between coats.",
     "feedback": [
-      "Correct. safe finishing combines product controls with thin, even coverage and inspection between coats.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "safe finishing combines product controls with thin, even coverage and inspection between coats",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Oil finish safety, application and between-coat quality\" to the Clock?",
+    "question": "Before work continues in “Oil finish safety, application and between-coat quality”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "check ventilation, PPE, contaminated-material handling and recoating requirements from approved information",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: check ventilation, PPE, contaminated-material handling and recoating requirements from approved information.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to check ventilation, PPE, contaminated-material handling and recoating requirements from approved information.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. check ventilation, PPE, contaminated-material handling and recoating requirements from approved information.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "check ventilation, PPE, contaminated-material handling and recoating requirements from approved information",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Oil finish safety, application and between-coat quality”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "missed areas, heavy build or unsafe waste handling cannot be corrected by appearance alone",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Oil finish safety, application and between-coat quality”.",
     "strongHint": "The warning sign is: missed areas, heavy build or unsafe waste handling cannot be corrected by appearance alone.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. missed areas, heavy build or unsafe waste handling cannot be corrected by appearance alone.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "missed areas, heavy build or unsafe waste handling cannot be corrected by appearance alone",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Oil finish safety, application and between-coat quality” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "coat photographs and notes showing coverage, defects and corrective decision"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: coat photographs and notes showing coverage, defects and corrective decision.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: coat photographs and notes showing coverage, defects and corrective decision.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. coat photographs and notes showing coverage, defects and corrective decision."
+      "coat photographs and notes showing coverage, defects and corrective decision"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Accurate fit-up of the battery clock mechanism\"?",
+    "question": "A student is preparing for “Accurate fit-up of the battery clock mechanism”. Which principle should control the decision?",
     "options": [
       "the supplied mechanism must align, clear surrounding parts and operate without being forced",
       "forcing mismatched hardware can damage the finished Clock or leave the display misaligned",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Accurate fit-up of the battery clock mechanism\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: the supplied mechanism must align, clear surrounding parts and operate without being forced.",
+    "hint": "Return to the opening and key-idea statements in “Accurate fit-up of the battery clock mechanism”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: the supplied mechanism must align, clear surrounding parts and operate without being forced.",
     "feedback": [
-      "Correct. the supplied mechanism must align, clear surrounding parts and operate without being forced.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "the supplied mechanism must align, clear surrounding parts and operate without being forced",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Accurate fit-up of the battery clock mechanism\" to the Clock?",
+    "question": "Before work continues in “Accurate fit-up of the battery clock mechanism”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "check compatibility and orientation using the actual component information before final fit-up",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: check compatibility and orientation using the actual component information before final fit-up.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to check compatibility and orientation using the actual component information before final fit-up.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. check compatibility and orientation using the actual component information before final fit-up.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "check compatibility and orientation using the actual component information before final fit-up",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Accurate fit-up of the battery clock mechanism”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "forcing mismatched hardware can damage the finished Clock or leave the display misaligned",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Accurate fit-up of the battery clock mechanism”.",
     "strongHint": "The warning sign is: forcing mismatched hardware can damage the finished Clock or leave the display misaligned.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. forcing mismatched hardware can damage the finished Clock or leave the display misaligned.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "forcing mismatched hardware can damage the finished Clock or leave the display misaligned",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Accurate fit-up of the battery clock mechanism” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "a functional test, alignment photo and clearance check"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a functional test, alignment photo and clearance check.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a functional test, alignment photo and clearance check.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a functional test, alignment photo and clearance check."
+      "a functional test, alignment photo and clearance check"
     ]
   }
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Apply: Planning the three-coat oil finish",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "1. Diagnose: Planning the three-coat oil finish",
+    "prompt": "A result shows this warning sign: “copying a drying time or disposal method from another product can be unsafe and damage quality”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "three coat",
@@ -244,32 +244,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The warning sign suggests…",
+      "Before changing the work, I would…",
+      "My evidence would prove…"
     ],
     "prompts": [
-      "State the controlling idea from \"Planning the three-coat oil finish\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Planning the three-coat oil finish”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "The finish plan is specific to the approved product and records each coat rather than treating three coats as three rushed repetitions."
   },
   {
-    "title": "2. Apply: Oil finish safety, application and between-coat quality",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "2. Prove: Oil finish safety, application and between-coat quality",
+    "prompt": "Plan how “coat photographs and notes showing coverage, defects and corrective decision” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "oil",
@@ -288,32 +289,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The evidence should show…",
+      "This links to the approved process because…",
+      "It is convincing when…"
     ],
     "prompts": [
-      "State the controlling idea from \"Oil finish safety, application and between-coat quality\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Oil finish safety, application and between-coat quality”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "A quality coat is safe, even and inspected; the next coat begins only when the selected product information and teacher direction allow it."
   },
   {
-    "title": "3. Apply: Accurate fit-up of the battery clock mechanism",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "3. Decision: Accurate fit-up of the battery clock mechanism",
+    "prompt": "Use one real Clock stage to explain why “the supplied mechanism must align, clear surrounding parts and operate without being forced”. Describe the decision and how you would check compatibility and orientation using the actual component information before final fit-up.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "mechanism",
@@ -332,32 +334,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "At this Clock stage…",
+      "The controlling principle is…",
+      "I would verify it by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Accurate fit-up of the battery clock mechanism\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Accurate fit-up of the battery clock mechanism”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "Successful fit-up protects the finish, uses the supplied hardware information and proves both alignment and function."
   },
   {
-    "title": "4. Connect the two-week module",
-    "prompt": "Explain how the three topics in Weeks 13-14 work together to improve the safety, accuracy, quality or evidence of the Clock project.",
-    "minWords": 110,
+    "title": "4. Connect the week’s decisions",
+    "prompt": "Build a short decision chain for Weeks 13-14: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "minWords": 90,
     "concepts": [
       {
         "label": "Planning the three-coat oil finish",
@@ -388,15 +391,15 @@ window.WRITTEN_QUESTIONS = [
       }
     ],
     "scaffold": [
-      "The first topic contributes by…",
-      "This connects with the second topic because…",
-      "Together, the three checks improve the Clock by…"
+      "First, I must verify…",
+      "The next approved step depends on…",
+      "The evidence that proves readiness is…"
     ],
     "prompts": [
-      "Include a specific idea from \"Planning the three-coat oil finish\".",
-      "Include a specific idea from \"Oil finish safety, application and between-coat quality\".",
-      "Include a specific idea from \"Accurate fit-up of the battery clock mechanism\"."
+      "Include one verified decision from “Planning the three-coat oil finish”.",
+      "Include one verified decision from “Oil finish safety, application and between-coat quality”.",
+      "Include one verified decision from “Accurate fit-up of the battery clock mechanism”."
     ],
-    "model": "Weeks 13-14 connect three parts of the same project. The finish plan is specific to the approved product and records each coat rather than treating three coats as three rushed repetitions. A quality coat is safe, even and inspected; the next coat begins only when the selected product information and teacher direction allow it. Successful fit-up protects the finish, uses the supplied hardware information and proves both alignment and function. Together, these ideas improve the Clock because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Weeks 13-14 form a controlled sequence. The finish plan is specific to the approved product and records each coat rather than treating three coats as three rushed repetitions. A quality coat is safe, even and inspected; the next coat begins only when the selected product information and teacher direction allow it. Successful fit-up protects the finish, uses the supplied hardware information and proves both alignment and function. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
   }
 ];

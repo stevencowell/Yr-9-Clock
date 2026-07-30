@@ -1,231 +1,231 @@
 window.LESSON_CONFIG = {
-  "storageKey": "clock-weeks19-20-guided-v1",
+  "storageKey": "clock-weeks19-20-guided-v2",
   "resetLabel": "Weeks 19-20",
-  "title": "Clock Weeks 19-20"
+  "title": "Clock Weeks 19-20 Evidence"
 };
 window.MC_QUESTIONS = [
   {
-    "question": "Which statement best captures the main idea in \"Final quality assurance for the completed Clock\"?",
+    "question": "A student is preparing for “Final quality assurance for the completed Clock”. Which principle should control the decision?",
     "options": [
       "final QA checks function, joints, drawer, mechanism, surface, finish and evidence systematically",
       "fixing one visible issue can distract from a functional or evidence gap",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Final quality assurance for the completed Clock\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: final QA checks function, joints, drawer, mechanism, surface, finish and evidence systematically.",
+    "hint": "Return to the opening and key-idea statements in “Final quality assurance for the completed Clock”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: final QA checks function, joints, drawer, mechanism, surface, finish and evidence systematically.",
     "feedback": [
-      "Correct. final QA checks function, joints, drawer, mechanism, surface, finish and evidence systematically.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "final QA checks function, joints, drawer, mechanism, surface, finish and evidence systematically",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Final quality assurance for the completed Clock\" to the Clock?",
+    "question": "Before work continues in “Final quality assurance for the completed Clock”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "use a checklist and record faults before declaring the project complete",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: use a checklist and record faults before declaring the project complete.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to use a checklist and record faults before declaring the project complete.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. use a checklist and record faults before declaring the project complete.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "use a checklist and record faults before declaring the project complete",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Final quality assurance for the completed Clock”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "fixing one visible issue can distract from a functional or evidence gap",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Final quality assurance for the completed Clock”.",
     "strongHint": "The warning sign is: fixing one visible issue can distract from a functional or evidence gap.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. fixing one visible issue can distract from a functional or evidence gap.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "fixing one visible issue can distract from a functional or evidence gap",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Final quality assurance for the completed Clock” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "a signed final checklist supported by close-up and functional evidence"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a signed final checklist supported by close-up and functional evidence.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a signed final checklist supported by close-up and functional evidence.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a signed final checklist supported by close-up and functional evidence."
+      "a signed final checklist supported by close-up and functional evidence"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Revising Clock theory and using feedback\"?",
+    "question": "A student is preparing for “Revising Clock theory and using feedback”. Which principle should control the decision?",
     "options": [
       "effective revision retrieves, checks and corrects Clock knowledge rather than rereading passively",
       "memorising an option letter does not build transferable workshop understanding",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Revising Clock theory and using feedback\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: effective revision retrieves, checks and corrects Clock knowledge rather than rereading passively.",
+    "hint": "Return to the opening and key-idea statements in “Revising Clock theory and using feedback”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: effective revision retrieves, checks and corrects Clock knowledge rather than rereading passively.",
     "feedback": [
-      "Correct. effective revision retrieves, checks and corrects Clock knowledge rather than rereading passively.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "effective revision retrieves, checks and corrects Clock knowledge rather than rereading passively",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Revising Clock theory and using feedback\" to the Clock?",
+    "question": "Before work continues in “Revising Clock theory and using feedback”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "use quiz feedback to identify the exact misconception and explain the corrected idea",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: use quiz feedback to identify the exact misconception and explain the corrected idea.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to use quiz feedback to identify the exact misconception and explain the corrected idea.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. use quiz feedback to identify the exact misconception and explain the corrected idea.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "use quiz feedback to identify the exact misconception and explain the corrected idea",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Revising Clock theory and using feedback”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "memorising an option letter does not build transferable workshop understanding",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Revising Clock theory and using feedback”.",
     "strongHint": "The warning sign is: memorising an option letter does not build transferable workshop understanding.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. memorising an option letter does not build transferable workshop understanding.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "memorising an option letter does not build transferable workshop understanding",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Revising Clock theory and using feedback” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "a correction log with the original error, correct idea and Clock example"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a correction log with the original error, correct idea and Clock example.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a correction log with the original error, correct idea and Clock example.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a correction log with the original error, correct idea and Clock example."
+      "a correction log with the original error, correct idea and Clock example"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Submission, reflection and transferable workshop skills\"?",
+    "question": "A student is preparing for “Submission, reflection and transferable workshop skills”. Which principle should control the decision?",
     "options": [
       "the final evidence package should be complete, backed up and linked to skills that transfer beyond this project",
       "assuming browser autosave is a submission can leave the official evidence missing",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Submission, reflection and transferable workshop skills\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: the final evidence package should be complete, backed up and linked to skills that transfer beyond this project.",
+    "hint": "Return to the opening and key-idea statements in “Submission, reflection and transferable workshop skills”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: the final evidence package should be complete, backed up and linked to skills that transfer beyond this project.",
     "feedback": [
-      "Correct. the final evidence package should be complete, backed up and linked to skills that transfer beyond this project.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "the final evidence package should be complete, backed up and linked to skills that transfer beyond this project",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Submission, reflection and transferable workshop skills\" to the Clock?",
+    "question": "Before work continues in “Submission, reflection and transferable workshop skills”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "verify names, files, readable evidence and teacher submission directions before hand-off",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: verify names, files, readable evidence and teacher submission directions before hand-off.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to verify names, files, readable evidence and teacher submission directions before hand-off.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. verify names, files, readable evidence and teacher submission directions before hand-off.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "verify names, files, readable evidence and teacher submission directions before hand-off",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Submission, reflection and transferable workshop skills”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "assuming browser autosave is a submission can leave the official evidence missing",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Submission, reflection and transferable workshop skills”.",
     "strongHint": "The warning sign is: assuming browser autosave is a submission can leave the official evidence missing.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. assuming browser autosave is a submission can leave the official evidence missing.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "assuming browser autosave is a submission can leave the official evidence missing",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Submission, reflection and transferable workshop skills” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "a final PDF or ZIP check plus a specific reflection on planning, accuracy or problem-solving"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a final PDF or ZIP check plus a specific reflection on planning, accuracy or problem-solving.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a final PDF or ZIP check plus a specific reflection on planning, accuracy or problem-solving.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a final PDF or ZIP check plus a specific reflection on planning, accuracy or problem-solving."
+      "a final PDF or ZIP check plus a specific reflection on planning, accuracy or problem-solving"
     ]
   }
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Apply: Final quality assurance for the completed Clock",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "1. Diagnose: Final quality assurance for the completed Clock",
+    "prompt": "A result shows this warning sign: “fixing one visible issue can distract from a functional or evidence gap”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "quality",
@@ -244,32 +244,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The warning sign suggests…",
+      "Before changing the work, I would…",
+      "My evidence would prove…"
     ],
     "prompts": [
-      "State the controlling idea from \"Final quality assurance for the completed Clock\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Final quality assurance for the completed Clock”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "Final QA is a complete inspection against the brief, not a quick judgement based only on overall appearance."
   },
   {
-    "title": "2. Apply: Revising Clock theory and using feedback",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "2. Prove: Revising Clock theory and using feedback",
+    "prompt": "Plan how “a correction log with the original error, correct idea and Clock example” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "revision",
@@ -288,32 +289,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The evidence should show…",
+      "This links to the approved process because…",
+      "It is convincing when…"
     ],
     "prompts": [
-      "State the controlling idea from \"Revising Clock theory and using feedback\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Revising Clock theory and using feedback”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "The student improves when feedback changes the explanation and can be applied to a new Clock scenario."
   },
   {
-    "title": "3. Apply: Submission, reflection and transferable workshop skills",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "3. Decision: Submission, reflection and transferable workshop skills",
+    "prompt": "Use one real Clock stage to explain why “the final evidence package should be complete, backed up and linked to skills that transfer beyond this project”. Describe the decision and how you would verify names, files, readable evidence and teacher submission directions before hand-off.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "submission",
@@ -332,32 +334,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "At this Clock stage…",
+      "The controlling principle is…",
+      "I would verify it by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Submission, reflection and transferable workshop skills\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Submission, reflection and transferable workshop skills”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "A complete hand-off combines verified files with an honest explanation of what the student can carry into the next project."
   },
   {
-    "title": "4. Connect the two-week module",
-    "prompt": "Explain how the three topics in Weeks 19-20 work together to improve the safety, accuracy, quality or evidence of the Clock project.",
-    "minWords": 110,
+    "title": "4. Connect the week’s decisions",
+    "prompt": "Build a short decision chain for Weeks 19-20: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "minWords": 90,
     "concepts": [
       {
         "label": "Final quality assurance for the completed Clock",
@@ -388,15 +391,15 @@ window.WRITTEN_QUESTIONS = [
       }
     ],
     "scaffold": [
-      "The first topic contributes by…",
-      "This connects with the second topic because…",
-      "Together, the three checks improve the Clock by…"
+      "First, I must verify…",
+      "The next approved step depends on…",
+      "The evidence that proves readiness is…"
     ],
     "prompts": [
-      "Include a specific idea from \"Final quality assurance for the completed Clock\".",
-      "Include a specific idea from \"Revising Clock theory and using feedback\".",
-      "Include a specific idea from \"Submission, reflection and transferable workshop skills\"."
+      "Include one verified decision from “Final quality assurance for the completed Clock”.",
+      "Include one verified decision from “Revising Clock theory and using feedback”.",
+      "Include one verified decision from “Submission, reflection and transferable workshop skills”."
     ],
-    "model": "Weeks 19-20 connect three parts of the same project. Final QA is a complete inspection against the brief, not a quick judgement based only on overall appearance. The student improves when feedback changes the explanation and can be applied to a new Clock scenario. A complete hand-off combines verified files with an honest explanation of what the student can carry into the next project. Together, these ideas improve the Clock because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Weeks 19-20 form a controlled sequence. Final QA is a complete inspection against the brief, not a quick judgement based only on overall appearance. The student improves when feedback changes the explanation and can be applied to a new Clock scenario. A complete hand-off combines verified files with an honest explanation of what the student can carry into the next project. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
   }
 ];

@@ -1,237 +1,237 @@
 window.LESSON_CONFIG = {
-  "storageKey": "clock-weeks7-8-guided-v1",
+  "storageKey": "clock-weeks7-8-guided-v2",
   "resetLabel": "Weeks 7-8",
-  "title": "Clock Weeks 7-8"
+  "title": "Clock Weeks 7-8 Evidence"
 };
 window.MC_QUESTIONS = [
   {
-    "question": "Which statement best captures the main idea in \"The hidden drawer: accuracy, clearance and fit\"?",
+    "question": "A student is preparing for “Rebate joints in the Clock carcass”. Which principle should control the decision?",
     "options": [
-      "the hidden drawer must be square, aligned and able to move without being forced or visibly loose",
-      "forcing a tight drawer can damage edges while removing material blindly can create excessive play",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "a rebate forms a controlled step that locates a mating part and can increase alignment and gluing area",
+      "an uneven or over-sized rebate can cause gaps, misalignment or a proud panel",
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"The hidden drawer: accuracy, clearance and fit\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: the hidden drawer must be square, aligned and able to move without being forced or visibly loose.",
+    "hint": "Return to the opening and key-idea statements in “Rebate joints in the Clock carcass”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: a rebate forms a controlled step that locates a mating part and can increase alignment and gluing area.",
     "feedback": [
-      "Correct. the hidden drawer must be square, aligned and able to move without being forced or visibly loose.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "a rebate forms a controlled step that locates a mating part and can increase alignment and gluing area",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"The hidden drawer: accuracy, clearance and fit\" to the Clock?",
+    "question": "Before work continues in “Rebate joints in the Clock carcass”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
-      "compare the parts, dry fit and inspect gaps before making a measured correction",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Continue immediately so the project stays on schedule.",
+      "check the shoulder, depth and fit against the drawing before assembly",
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: compare the parts, dry fit and inspect gaps before making a measured correction.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to check the shoulder, depth and fit against the drawing before assembly.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. compare the parts, dry fit and inspect gaps before making a measured correction.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "check the shoulder, depth and fit against the drawing before assembly",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Rebate joints in the Clock carcass”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
-      "forcing a tight drawer can damage edges while removing material blindly can create excessive play",
-      "The student compares the result with the brief."
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
+      "an uneven or over-sized rebate can cause gaps, misalignment or a proud panel",
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
-    "strongHint": "The warning sign is: forcing a tight drawer can damage edges while removing material blindly can create excessive play.",
+    "hint": "Identify the specific failure connected with “Rebate joints in the Clock carcass”.",
+    "strongHint": "The warning sign is: an uneven or over-sized rebate can cause gaps, misalignment or a proud panel.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. forcing a tight drawer can damage edges while removing material blindly can create excessive play.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "an uneven or over-sized rebate can cause gaps, misalignment or a proud panel",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Rebate joints in the Clock carcass” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
-      "a short movement test and close-up photo of the final alignment"
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
+      "a close-up dry-fit photo with a caption explaining the shoulder and flush fit"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a short movement test and close-up photo of the final alignment.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a close-up dry-fit photo with a caption explaining the shoulder and flush fit.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a short movement test and close-up photo of the final alignment."
+      "a close-up dry-fit photo with a caption explaining the shoulder and flush fit"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Responsible material use and off-cut selection\"?",
+    "question": "A student is preparing for “Chamfered edges: controlled shaping and design effect”. Which principle should control the decision?",
     "options": [
-      "a suitable off-cut can reduce waste while still meeting the drawer requirements",
-      "using any scrap simply because it is available can transfer defects or poor fit into the drawer",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "a chamfer removes a consistent strip from an edge to change appearance and edge behaviour",
+      "uneven passes or working carelessly against the grain can create inconsistent edges and tear-out",
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Responsible material use and off-cut selection\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: a suitable off-cut can reduce waste while still meeting the drawer requirements.",
+    "hint": "Return to the opening and key-idea statements in “Chamfered edges: controlled shaping and design effect”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: a chamfer removes a consistent strip from an edge to change appearance and edge behaviour.",
     "feedback": [
-      "Correct. a suitable off-cut can reduce waste while still meeting the drawer requirements.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "a chamfer removes a consistent strip from an edge to change appearance and edge behaviour",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Responsible material use and off-cut selection\" to the Clock?",
+    "question": "Before work continues in “Chamfered edges: controlled shaping and design effect”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
-      "check size, grain, defects and stability against the approved cutting information",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Continue immediately so the project stays on schedule.",
+      "use approved layout references and compare matching edges as shaping progresses",
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: check size, grain, defects and stability against the approved cutting information.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to use approved layout references and compare matching edges as shaping progresses.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. check size, grain, defects and stability against the approved cutting information.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "use approved layout references and compare matching edges as shaping progresses",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Chamfered edges: controlled shaping and design effect”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
-      "using any scrap simply because it is available can transfer defects or poor fit into the drawer",
-      "The student compares the result with the brief."
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
+      "uneven passes or working carelessly against the grain can create inconsistent edges and tear-out",
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
-    "strongHint": "The warning sign is: using any scrap simply because it is available can transfer defects or poor fit into the drawer.",
+    "hint": "Identify the specific failure connected with “Chamfered edges: controlled shaping and design effect”.",
+    "strongHint": "The warning sign is: uneven passes or working carelessly against the grain can create inconsistent edges and tear-out.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. using any scrap simply because it is available can transfer defects or poor fit into the drawer.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "uneven passes or working carelessly against the grain can create inconsistent edges and tear-out",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Chamfered edges: controlled shaping and design effect” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
-      "a labelled off-cut photograph explaining why it was selected"
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
+      "a before-and-after close-up showing even width and clean grain response"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a labelled off-cut photograph explaining why it was selected.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a before-and-after close-up showing even width and clean grain response.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a labelled off-cut photograph explaining why it was selected."
+      "a before-and-after close-up showing even width and clean grain response"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Cutting lists, material calculations and cost planning\"?",
+    "question": "A student is preparing for “Adhesive assembly, squareness and clamping”. Which principle should control the decision?",
     "options": [
-      "a cutting list turns drawing information into controlled components, quantities and material requirements",
-      "scaled guesses or missing quantities can waste timber and make a cost estimate unreliable",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "dry fitting and controlled clamping keep the Clock carcass aligned while the approved adhesive cures",
+      "too much pressure or poor clamp placement can distort the carcass rather than correct it",
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Cutting lists, material calculations and cost planning\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: a cutting list turns drawing information into controlled components, quantities and material requirements.",
+    "hint": "Return to the opening and key-idea statements in “Adhesive assembly, squareness and clamping”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: dry fitting and controlled clamping keep the Clock carcass aligned while the approved adhesive cures.",
     "feedback": [
-      "Correct. a cutting list turns drawing information into controlled components, quantities and material requirements.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "dry fitting and controlled clamping keep the Clock carcass aligned while the approved adhesive cures",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Cutting lists, material calculations and cost planning\" to the Clock?",
+    "question": "Before work continues in “Adhesive assembly, squareness and clamping”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
-      "use written dimensions, approved stock information and current prices",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Continue immediately so the project stays on schedule.",
+      "check mating surfaces, sequence, square and clamp placement before committing",
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: use written dimensions, approved stock information and current prices.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to check mating surfaces, sequence, square and clamp placement before committing.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. use written dimensions, approved stock information and current prices.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "check mating surfaces, sequence, square and clamp placement before committing",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Adhesive assembly, squareness and clamping”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
-      "scaled guesses or missing quantities can waste timber and make a cost estimate unreliable",
-      "The student compares the result with the brief."
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
+      "too much pressure or poor clamp placement can distort the carcass rather than correct it",
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
-    "strongHint": "The warning sign is: scaled guesses or missing quantities can waste timber and make a cost estimate unreliable.",
+    "hint": "Identify the specific failure connected with “Adhesive assembly, squareness and clamping”.",
+    "strongHint": "The warning sign is: too much pressure or poor clamp placement can distort the carcass rather than correct it.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. scaled guesses or missing quantities can waste timber and make a cost estimate unreliable.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "too much pressure or poor clamp placement can distort the carcass rather than correct it",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Adhesive assembly, squareness and clamping” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
-      "a checked cutting list with planned and actual material use"
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
+      "a clamped assembly photograph with the square check identified"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a checked cutting list with planned and actual material use.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a clamped assembly photograph with the square check identified.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a checked cutting list with planned and actual material use."
+      "a clamped assembly photograph with the square check identified"
     ]
   }
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Apply: The hidden drawer: accuracy, clearance and fit",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "1. Decision: Rebate joints in the Clock carcass",
+    "prompt": "Use one real Clock stage to explain why “a rebate forms a controlled step that locates a mating part and can increase alignment and gluing area”. Describe the decision and how you would check the shoulder, depth and fit against the drawing before assembly.",
+    "minWords": 65,
     "concepts": [
       {
-        "label": "drawer",
+        "label": "rebate",
         "terms": [
-          "drawer",
-          "clearance"
+          "rebate",
+          "shoulder"
         ]
       },
       {
@@ -244,38 +244,39 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "At this Clock stage…",
+      "The controlling principle is…",
+      "I would verify it by…"
     ],
     "prompts": [
-      "State the controlling idea from \"The hidden drawer: accuracy, clearance and fit\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Rebate joints in the Clock carcass”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
-    "model": "A functional drawer is achieved through controlled checking and small approved corrections, not by guessing a clearance or forcing the parts."
+    "model": "The rebate is successful when its verified position and size locate the mating part cleanly without forcing, gaps or unwanted projection."
   },
   {
-    "title": "2. Apply: Responsible material use and off-cut selection",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "2. Diagnose: Chamfered edges: controlled shaping and design effect",
+    "prompt": "A result shows this warning sign: “uneven passes or working carelessly against the grain can create inconsistent edges and tear-out”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "minWords": 65,
     "concepts": [
       {
-        "label": "off-cut",
+        "label": "chamfer",
         "terms": [
-          "off-cut",
-          "waste"
+          "chamfer",
+          "edge"
         ]
       },
       {
@@ -288,38 +289,39 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The warning sign suggests…",
+      "Before changing the work, I would…",
+      "My evidence would prove…"
     ],
     "prompts": [
-      "State the controlling idea from \"Responsible material use and off-cut selection\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Chamfered edges: controlled shaping and design effect”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
-    "model": "Responsible reuse means choosing a sound off-cut that genuinely suits the part and recording how the decision reduced waste."
+    "model": "A quality chamfer is controlled by the approved drawing or teacher direction, remains even along its length and is checked in matching pairs."
   },
   {
-    "title": "3. Apply: Cutting lists, material calculations and cost planning",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "3. Prove: Adhesive assembly, squareness and clamping",
+    "prompt": "Plan how “a clamped assembly photograph with the square check identified” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "minWords": 65,
     "concepts": [
       {
-        "label": "cutting list",
+        "label": "dry fit",
         "terms": [
-          "cutting list",
-          "quantity"
+          "dry fit",
+          "square"
         ]
       },
       {
@@ -332,71 +334,72 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The evidence should show…",
+      "This links to the approved process because…",
+      "It is convincing when…"
     ],
     "prompts": [
-      "State the controlling idea from \"Cutting lists, material calculations and cost planning\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Adhesive assembly, squareness and clamping”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
-    "model": "The cutting list should be traceable to the drawing and make quantities, dimensions and material use clear without invented stock sizes or prices."
+    "model": "The student should dry fit first, apply the approved adhesive as directed and use clamps to hold an already accurate assembly without introducing distortion."
   },
   {
-    "title": "4. Connect the two-week module",
-    "prompt": "Explain how the three topics in Weeks 7-8 work together to improve the safety, accuracy, quality or evidence of the Clock project.",
-    "minWords": 110,
+    "title": "4. Connect the week’s decisions",
+    "prompt": "Build a short decision chain for Weeks 7-8: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "minWords": 90,
     "concepts": [
       {
-        "label": "The hidden drawer: accuracy, clearance and fit",
+        "label": "Rebate joints in the Clock carcass",
         "terms": [
-          "drawer",
-          "clearance",
-          "square",
+          "rebate",
+          "shoulder",
+          "depth",
           "fit"
         ]
       },
       {
-        "label": "Responsible material use and off-cut selection",
+        "label": "Chamfered edges: controlled shaping and design effect",
         "terms": [
-          "off-cut",
-          "waste",
-          "selection",
-          "sustainability"
+          "chamfer",
+          "edge",
+          "grain",
+          "consistent"
         ]
       },
       {
-        "label": "Cutting lists, material calculations and cost planning",
+        "label": "Adhesive assembly, squareness and clamping",
         "terms": [
-          "cutting list",
-          "quantity",
-          "cost",
-          "waste"
+          "dry fit",
+          "square",
+          "clamp",
+          "assembly"
         ]
       }
     ],
     "scaffold": [
-      "The first topic contributes by…",
-      "This connects with the second topic because…",
-      "Together, the three checks improve the Clock by…"
+      "First, I must verify…",
+      "The next approved step depends on…",
+      "The evidence that proves readiness is…"
     ],
     "prompts": [
-      "Include a specific idea from \"The hidden drawer: accuracy, clearance and fit\".",
-      "Include a specific idea from \"Responsible material use and off-cut selection\".",
-      "Include a specific idea from \"Cutting lists, material calculations and cost planning\"."
+      "Include one verified decision from “Rebate joints in the Clock carcass”.",
+      "Include one verified decision from “Chamfered edges: controlled shaping and design effect”.",
+      "Include one verified decision from “Adhesive assembly, squareness and clamping”."
     ],
-    "model": "Weeks 7-8 connect three parts of the same project. A functional drawer is achieved through controlled checking and small approved corrections, not by guessing a clearance or forcing the parts. Responsible reuse means choosing a sound off-cut that genuinely suits the part and recording how the decision reduced waste. The cutting list should be traceable to the drawing and make quantities, dimensions and material use clear without invented stock sizes or prices. Together, these ideas improve the Clock because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Weeks 7-8 form a controlled sequence. The rebate is successful when its verified position and size locate the mating part cleanly without forcing, gaps or unwanted projection. A quality chamfer is controlled by the approved drawing or teacher direction, remains even along its length and is checked in matching pairs. The student should dry fit first, apply the approved adhesive as directed and use clamps to hold an already accurate assembly without introducing distortion. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
   }
 ];

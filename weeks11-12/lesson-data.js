@@ -1,237 +1,237 @@
 window.LESSON_CONFIG = {
-  "storageKey": "clock-weeks11-12-guided-v1",
+  "storageKey": "clock-weeks11-12-guided-v2",
   "resetLabel": "Weeks 11-12",
-  "title": "Clock Weeks 11-12"
+  "title": "Clock Weeks 11-12 Evidence"
 };
 window.MC_QUESTIONS = [
   {
-    "question": "Which statement best captures the main idea in \"Writing a Work Method Statement for the Clock\"?",
+    "question": "A student is preparing for “Timber moisture, seasoning and dimensional stability”. Which principle should control the decision?",
     "options": [
-      "a WMS sets out a logical Clock sequence with hazards, controls and evidence checkpoints",
-      "a generic list of PPE does not explain how the Clock work will be managed",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "timber exchanges moisture with its environment and may move as conditions change",
+      "movement after inaccurate storage or unstable selection can affect joints, the drawer and finish",
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Writing a Work Method Statement for the Clock\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: a WMS sets out a logical Clock sequence with hazards, controls and evidence checkpoints.",
+    "hint": "Return to the opening and key-idea statements in “Timber moisture, seasoning and dimensional stability”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: timber exchanges moisture with its environment and may move as conditions change.",
     "feedback": [
-      "Correct. a WMS sets out a logical Clock sequence with hazards, controls and evidence checkpoints.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "timber exchanges moisture with its environment and may move as conditions change",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Writing a Work Method Statement for the Clock\" to the Clock?",
+    "question": "Before work continues in “Timber moisture, seasoning and dimensional stability”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
-      "link every planned stage to the drawing, approved procedure and quality check",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Continue immediately so the project stays on schedule.",
+      "select stable material and keep checking fit and straightness during the Clock build",
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: link every planned stage to the drawing, approved procedure and quality check.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to select stable material and keep checking fit and straightness during the Clock build.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. link every planned stage to the drawing, approved procedure and quality check.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "select stable material and keep checking fit and straightness during the Clock build",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Timber moisture, seasoning and dimensional stability”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
-      "a generic list of PPE does not explain how the Clock work will be managed",
-      "The student compares the result with the brief."
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
+      "movement after inaccurate storage or unstable selection can affect joints, the drawer and finish",
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
-    "strongHint": "The warning sign is: a generic list of PPE does not explain how the Clock work will be managed.",
+    "hint": "Identify the specific failure connected with “Timber moisture, seasoning and dimensional stability”.",
+    "strongHint": "The warning sign is: movement after inaccurate storage or unstable selection can affect joints, the drawer and finish.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. a generic list of PPE does not explain how the Clock work will be managed.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "movement after inaccurate storage or unstable selection can affect joints, the drawer and finish",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Timber moisture, seasoning and dimensional stability” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
-      "a stage-by-stage WMS that names controls and evidence"
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
+      "a timber inspection note connecting a stability observation to a placement decision"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a stage-by-stage WMS that names controls and evidence.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a timber inspection note connecting a stability observation to a placement decision.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a stage-by-stage WMS that names controls and evidence."
+      "a timber inspection note connecting a stability observation to a placement decision"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Building an accurate drill press Safe Operating Procedure\"?",
+    "question": "A student is preparing for “Selecting timber for function, appearance and responsible use”. Which principle should control the decision?",
     "options": [
-      "an SOP records the approved pre-start, operating, shutdown and emergency expectations for a machine",
-      "invented settings or missing local controls make a copied internet procedure unsafe",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "material choice balances function, stability, grain, defects, appearance and waste",
+      "choosing only by colour can ignore stability, grain direction or a damaging defect",
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Building an accurate drill press Safe Operating Procedure\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: an SOP records the approved pre-start, operating, shutdown and emergency expectations for a machine.",
+    "hint": "Return to the opening and key-idea statements in “Selecting timber for function, appearance and responsible use”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: material choice balances function, stability, grain, defects, appearance and waste.",
     "feedback": [
-      "Correct. an SOP records the approved pre-start, operating, shutdown and emergency expectations for a machine.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "material choice balances function, stability, grain, defects, appearance and waste",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Building an accurate drill press Safe Operating Procedure\" to the Clock?",
+    "question": "Before work continues in “Selecting timber for function, appearance and responsible use”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
-      "use the actual school drill press SOP and teacher direction rather than memory",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Continue immediately so the project stays on schedule.",
+      "match each approved component to school-supplied timber for a stated reason",
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: use the actual school drill press SOP and teacher direction rather than memory.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to match each approved component to school-supplied timber for a stated reason.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. use the actual school drill press SOP and teacher direction rather than memory.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "match each approved component to school-supplied timber for a stated reason",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Selecting timber for function, appearance and responsible use”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
-      "invented settings or missing local controls make a copied internet procedure unsafe",
-      "The student compares the result with the brief."
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
+      "choosing only by colour can ignore stability, grain direction or a damaging defect",
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
-    "strongHint": "The warning sign is: invented settings or missing local controls make a copied internet procedure unsafe.",
+    "hint": "Identify the specific failure connected with “Selecting timber for function, appearance and responsible use”.",
+    "strongHint": "The warning sign is: choosing only by colour can ignore stability, grain direction or a damaging defect.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. invented settings or missing local controls make a copied internet procedure unsafe.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "choosing only by colour can ignore stability, grain direction or a damaging defect",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Selecting timber for function, appearance and responsible use” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
-      "an SOP cross-check showing the school source and the relevant Clock operation"
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
+      "an annotated selection photo and a short justification"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: an SOP cross-check showing the school source and the relevant Clock operation.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: an annotated selection photo and a short justification.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. an SOP cross-check showing the school source and the relevant Clock operation."
+      "an annotated selection photo and a short justification"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Sanding for a consistent oil-ready surface\"?",
+    "question": "A student is preparing for “Sanding for a consistent oil-ready surface”. Which principle should control the decision?",
     "options": [
       "surface preparation removes earlier marks progressively while protecting shape and edges",
       "skipping inspection can leave scratches, rounded edges or dust that becomes clearer after oiling",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Sanding for a consistent oil-ready surface\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: surface preparation removes earlier marks progressively while protecting shape and edges.",
+    "hint": "Return to the opening and key-idea statements in “Sanding for a consistent oil-ready surface”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: surface preparation removes earlier marks progressively while protecting shape and edges.",
     "feedback": [
-      "Correct. surface preparation removes earlier marks progressively while protecting shape and edges.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "surface preparation removes earlier marks progressively while protecting shape and edges",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Sanding for a consistent oil-ready surface\" to the Clock?",
+    "question": "Before work continues in “Sanding for a consistent oil-ready surface”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "inspect under good light and follow the approved abrasive and dust-control sequence",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: inspect under good light and follow the approved abrasive and dust-control sequence.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to inspect under good light and follow the approved abrasive and dust-control sequence.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. inspect under good light and follow the approved abrasive and dust-control sequence.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "inspect under good light and follow the approved abrasive and dust-control sequence",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Sanding for a consistent oil-ready surface”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "skipping inspection can leave scratches, rounded edges or dust that becomes clearer after oiling",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Sanding for a consistent oil-ready surface”.",
     "strongHint": "The warning sign is: skipping inspection can leave scratches, rounded edges or dust that becomes clearer after oiling.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. skipping inspection can leave scratches, rounded edges or dust that becomes clearer after oiling.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "skipping inspection can leave scratches, rounded edges or dust that becomes clearer after oiling",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Sanding for a consistent oil-ready surface” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "close-up before, during and ready-for-finish surface evidence"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: close-up before, during and ready-for-finish surface evidence.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: close-up before, during and ready-for-finish surface evidence.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. close-up before, during and ready-for-finish surface evidence."
+      "close-up before, during and ready-for-finish surface evidence"
     ]
   }
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Apply: Writing a Work Method Statement for the Clock",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "1. Decision: Timber moisture, seasoning and dimensional stability",
+    "prompt": "Use one real Clock stage to explain why “timber exchanges moisture with its environment and may move as conditions change”. Describe the decision and how you would select stable material and keep checking fit and straightness during the Clock build.",
+    "minWords": 65,
     "concepts": [
       {
-        "label": "WMS",
+        "label": "moisture",
         "terms": [
-          "WMS",
-          "sequence"
+          "moisture",
+          "seasoning"
         ]
       },
       {
@@ -244,38 +244,39 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "At this Clock stage…",
+      "The controlling principle is…",
+      "I would verify it by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Writing a Work Method Statement for the Clock\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Timber moisture, seasoning and dimensional stability”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
-    "model": "The WMS should show what happens, in what approved order, what could go wrong, how it is controlled and what proves the stage is complete."
+    "model": "Understanding moisture helps explain why stable timber and repeated checks matter to the Clock rather than treating timber as an unchanging material."
   },
   {
-    "title": "2. Apply: Building an accurate drill press Safe Operating Procedure",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "2. Prove: Selecting timber for function, appearance and responsible use",
+    "prompt": "Plan how “an annotated selection photo and a short justification” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "minWords": 65,
     "concepts": [
       {
-        "label": "SOP",
+        "label": "function",
         "terms": [
-          "SOP",
-          "pre-start"
+          "function",
+          "appearance"
         ]
       },
       {
@@ -288,32 +289,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The evidence should show…",
+      "This links to the approved process because…",
+      "It is convincing when…"
     ],
     "prompts": [
-      "State the controlling idea from \"Building an accurate drill press Safe Operating Procedure\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Selecting timber for function, appearance and responsible use”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
-    "model": "A valid student SOP accurately reflects the school machine and procedure; it does not turn general advice into unsupported operating instructions."
+    "model": "A justified choice names the qualities that matter to the particular Clock part instead of making a broad claim about an unnamed species."
   },
   {
-    "title": "3. Apply: Sanding for a consistent oil-ready surface",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "3. Decision: Sanding for a consistent oil-ready surface",
+    "prompt": "Use one real Clock stage to explain why “surface preparation removes earlier marks progressively while protecting shape and edges”. Describe the decision and how you would inspect under good light and follow the approved abrasive and dust-control sequence.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "sanding",
@@ -332,49 +334,50 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "At this Clock stage…",
+      "The controlling principle is…",
+      "I would verify it by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Sanding for a consistent oil-ready surface\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Sanding for a consistent oil-ready surface”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "The surface is ready when the approved preparation sequence is complete and inspection shows consistent texture without unresolved defects."
   },
   {
-    "title": "4. Connect the two-week module",
-    "prompt": "Explain how the three topics in Weeks 11-12 work together to improve the safety, accuracy, quality or evidence of the Clock project.",
-    "minWords": 110,
+    "title": "4. Connect the week’s decisions",
+    "prompt": "Build a short decision chain for Weeks 11-12: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "minWords": 90,
     "concepts": [
       {
-        "label": "Writing a Work Method Statement for the Clock",
+        "label": "Timber moisture, seasoning and dimensional stability",
         "terms": [
-          "WMS",
-          "sequence",
-          "hazard",
-          "checkpoint"
+          "moisture",
+          "seasoning",
+          "movement",
+          "stability"
         ]
       },
       {
-        "label": "Building an accurate drill press Safe Operating Procedure",
+        "label": "Selecting timber for function, appearance and responsible use",
         "terms": [
-          "SOP",
-          "pre-start",
-          "shutdown",
-          "emergency"
+          "function",
+          "appearance",
+          "defect",
+          "selection"
         ]
       },
       {
@@ -388,15 +391,15 @@ window.WRITTEN_QUESTIONS = [
       }
     ],
     "scaffold": [
-      "The first topic contributes by…",
-      "This connects with the second topic because…",
-      "Together, the three checks improve the Clock by…"
+      "First, I must verify…",
+      "The next approved step depends on…",
+      "The evidence that proves readiness is…"
     ],
     "prompts": [
-      "Include a specific idea from \"Writing a Work Method Statement for the Clock\".",
-      "Include a specific idea from \"Building an accurate drill press Safe Operating Procedure\".",
-      "Include a specific idea from \"Sanding for a consistent oil-ready surface\"."
+      "Include one verified decision from “Timber moisture, seasoning and dimensional stability”.",
+      "Include one verified decision from “Selecting timber for function, appearance and responsible use”.",
+      "Include one verified decision from “Sanding for a consistent oil-ready surface”."
     ],
-    "model": "Weeks 11-12 connect three parts of the same project. The WMS should show what happens, in what approved order, what could go wrong, how it is controlled and what proves the stage is complete. A valid student SOP accurately reflects the school machine and procedure; it does not turn general advice into unsupported operating instructions. The surface is ready when the approved preparation sequence is complete and inspection shows consistent texture without unresolved defects. Together, these ideas improve the Clock because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Weeks 11-12 form a controlled sequence. Understanding moisture helps explain why stable timber and repeated checks matter to the Clock rather than treating timber as an unchanging material. A justified choice names the qualities that matter to the particular Clock part instead of making a broad claim about an unnamed species. The surface is ready when the approved preparation sequence is complete and inspection shows consistent texture without unresolved defects. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
   }
 ];

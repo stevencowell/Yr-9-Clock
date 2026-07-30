@@ -1,231 +1,231 @@
 window.LESSON_CONFIG = {
-  "storageKey": "clock-weeks17-18-guided-v1",
+  "storageKey": "clock-weeks17-18-guided-v2",
   "resetLabel": "Weeks 17-18",
-  "title": "Clock Weeks 17-18"
+  "title": "Clock Weeks 17-18 Evidence"
 };
 window.MC_QUESTIONS = [
   {
-    "question": "Which statement best captures the main idea in \"Building an authentic Clock project folio\"?",
+    "question": "A student is preparing for “Building an authentic Clock project folio”. Which principle should control the decision?",
     "options": [
       "the folio should tell a traceable story from planning to finished evaluation",
       "a collection of final photos without decisions or captions cannot prove the process",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Building an authentic Clock project folio\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: the folio should tell a traceable story from planning to finished evaluation.",
+    "hint": "Return to the opening and key-idea statements in “Building an authentic Clock project folio”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: the folio should tell a traceable story from planning to finished evaluation.",
     "feedback": [
-      "Correct. the folio should tell a traceable story from planning to finished evaluation.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "the folio should tell a traceable story from planning to finished evaluation",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Building an authentic Clock project folio\" to the Clock?",
+    "question": "Before work continues in “Building an authentic Clock project folio”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "add evidence progressively and explain what each item proves",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: add evidence progressively and explain what each item proves.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to add evidence progressively and explain what each item proves.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. add evidence progressively and explain what each item proves.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "add evidence progressively and explain what each item proves",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Building an authentic Clock project folio”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "a collection of final photos without decisions or captions cannot prove the process",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Building an authentic Clock project folio”.",
     "strongHint": "The warning sign is: a collection of final photos without decisions or captions cannot prove the process.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. a collection of final photos without decisions or captions cannot prove the process.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "a collection of final photos without decisions or captions cannot prove the process",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Building an authentic Clock project folio” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "linked planning, process, quality and evaluation records"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: linked planning, process, quality and evaluation records.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: linked planning, process, quality and evaluation records.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. linked planning, process, quality and evaluation records."
+      "linked planning, process, quality and evaluation records"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Photographing and captioning key Clock construction stages\"?",
+    "question": "A student is preparing for “Photographing and captioning key Clock construction stages”. Which principle should control the decision?",
     "options": [
       "a useful photograph proves a stage, decision or quality check and is explained by its caption",
       "a blurry or unsafe action photo may provide little evidence and create risk",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Photographing and captioning key Clock construction stages\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: a useful photograph proves a stage, decision or quality check and is explained by its caption.",
+    "hint": "Return to the opening and key-idea statements in “Photographing and captioning key Clock construction stages”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: a useful photograph proves a stage, decision or quality check and is explained by its caption.",
     "feedback": [
-      "Correct. a useful photograph proves a stage, decision or quality check and is explained by its caption.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "a useful photograph proves a stage, decision or quality check and is explained by its caption",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Photographing and captioning key Clock construction stages\" to the Clock?",
+    "question": "Before work continues in “Photographing and captioning key Clock construction stages”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "photograph only when machinery is stopped and the teacher-approved context is safe",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: photograph only when machinery is stopped and the teacher-approved context is safe.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to photograph only when machinery is stopped and the teacher-approved context is safe.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. photograph only when machinery is stopped and the teacher-approved context is safe.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "photograph only when machinery is stopped and the teacher-approved context is safe",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Photographing and captioning key Clock construction stages”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "a blurry or unsafe action photo may provide little evidence and create risk",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Photographing and captioning key Clock construction stages”.",
     "strongHint": "The warning sign is: a blurry or unsafe action photo may provide little evidence and create risk.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. a blurry or unsafe action photo may provide little evidence and create risk.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "a blurry or unsafe action photo may provide little evidence and create risk",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Photographing and captioning key Clock construction stages” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "a focused stage photo with a caption naming what, why and result"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: a focused stage photo with a caption naming what, why and result.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: a focused stage photo with a caption naming what, why and result.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. a focused stage photo with a caption naming what, why and result."
+      "a focused stage photo with a caption naming what, why and result"
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Using PMI to evaluate the finished Clock\"?",
+    "question": "A student is preparing for “Using PMI to evaluate the finished Clock”. Which principle should control the decision?",
     "options": [
       "PMI separates positives, minuses and interesting findings before a final judgement",
       "praise without evidence or vague criticism does not identify a realistic improvement",
-      "Appearance is the only evidence that matters.",
-      "Guessing is acceptable when the result looks close."
+      "The final appearance can replace process checks.",
+      "A remembered value is sufficient when the drawing is nearby."
     ],
     "correct": 0,
-    "hint": "Return to the section \"Using PMI to evaluate the finished Clock\" and identify its controlling principle.",
-    "strongHint": "The best answer should connect the Clock task to this idea: PMI separates positives, minuses and interesting findings before a final judgement.",
+    "hint": "Return to the opening and key-idea statements in “Using PMI to evaluate the finished Clock”.",
+    "strongHint": "Choose the principle supported by the approved Clock sources: PMI separates positives, minuses and interesting findings before a final judgement.",
     "feedback": [
-      "Correct. PMI separates positives, minuses and interesting findings before a final judgement.",
-      "That describes a likely problem, not the main principle.",
-      "The Clock is judged on function, process and evidence as well as appearance.",
-      "A controlled project uses verified information rather than guesses."
+      "PMI separates positives, minuses and interesting findings before a final judgement",
+      "That describes a warning sign rather than the principle that should guide the work.",
+      "Appearance is only one part of the practical and evidence requirements.",
+      "Verified project information must replace memory or guessing."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Using PMI to evaluate the finished Clock\" to the Clock?",
+    "question": "Before work continues in “Using PMI to evaluate the finished Clock”, which action gives the strongest control and quality evidence?",
     "options": [
-      "Remove more material immediately.",
+      "Continue immediately so the project stays on schedule.",
       "test function and compare evidence with the brief before writing the evaluation",
-      "Wait until the final lesson to inspect the result.",
-      "Copy another student without checking the drawing."
+      "Leave the inspection until the Clock is fully assembled.",
+      "Use another student’s result as the controlling reference."
     ],
     "correct": 1,
-    "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: test function and compare evidence with the brief before writing the evaluation.",
+    "hint": "Look for the action that uses an approved source and creates a meaningful checkpoint.",
+    "strongHint": "The controlled next step is to test function and compare evidence with the brief before writing the evaluation.",
     "feedback": [
-      "Removing material before diagnosis can create a second fault.",
-      "Correct. test function and compare evidence with the brief before writing the evaluation.",
-      "Progressive checking is safer and cheaper than a final surprise.",
-      "Another student’s work is not a controlling source."
+      "Speed does not justify bypassing an approved check.",
+      "test function and compare evidence with the brief before writing the evaluation",
+      "A late inspection may allow a fault to affect later stages.",
+      "Another student’s work is evidence of their process, not the controlling source for yours."
     ]
   },
   {
-    "question": "Which outcome most clearly shows that this principle has been ignored?",
+    "question": "While reviewing “Using PMI to evaluate the finished Clock”, which observation is the clearest reason to stop, diagnose and seek the approved next step?",
     "options": [
-      "The student records a check in the folio.",
-      "The student asks for the approved source.",
+      "The student has dated a relevant quality check.",
+      "The student has confirmed the current approved source.",
       "praise without evidence or vague criticism does not identify a realistic improvement",
-      "The student compares the result with the brief."
+      "The result has been compared with the brief."
     ],
     "correct": 2,
-    "hint": "Look for the option that describes a specific Clock fault or weak process.",
+    "hint": "Identify the specific failure connected with “Using PMI to evaluate the finished Clock”.",
     "strongHint": "The warning sign is: praise without evidence or vague criticism does not identify a realistic improvement.",
     "feedback": [
-      "Recording a check supports quality.",
-      "Using the approved source supports safe and accurate work.",
-      "Correct. praise without evidence or vague criticism does not identify a realistic improvement.",
-      "Comparison with the brief is a sound quality step."
+      "A dated check improves traceability.",
+      "Confirming the source is a sound control.",
+      "praise without evidence or vague criticism does not identify a realistic improvement",
+      "Comparison with the brief is an appropriate quality step."
     ]
   },
   {
-    "question": "Which evidence would best demonstrate this learning in the Clock folio?",
+    "question": "Which folio item would best prove the student applied “Using PMI to evaluate the finished Clock” to the actual Clock?",
     "options": [
-      "An unrelated internet image with no caption.",
-      "A final photo that hides the relevant detail.",
-      "A copied definition with no Clock example.",
+      "An uncited internet image of a different Clock.",
+      "A final photograph that does not show the relevant detail.",
+      "A copied definition with no project decision.",
       "PMI notes linked to function, aesthetics, quality and one next step"
     ],
     "correct": 3,
-    "hint": "Useful evidence should prove a real stage, decision or check in this Clock.",
-    "strongHint": "Look for evidence that records the actual Clock process: PMI notes linked to function, aesthetics, quality and one next step.",
+    "hint": "Choose evidence that records a real stage, decision or check and explains what it proves.",
+    "strongHint": "Look for the item linked to the actual process: PMI notes linked to function, aesthetics, quality and one next step.",
     "feedback": [
-      "Unrelated images do not prove student work.",
-      "A photograph must reveal the relevant detail.",
+      "An unrelated image cannot prove the student’s process.",
+      "A useful photograph must reveal the feature being judged.",
       "A definition alone does not show application.",
-      "Correct. PMI notes linked to function, aesthetics, quality and one next step."
+      "PMI notes linked to function, aesthetics, quality and one next step"
     ]
   }
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Apply: Building an authentic Clock project folio",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "1. Diagnose: Building an authentic Clock project folio",
+    "prompt": "A result shows this warning sign: “a collection of final photos without decisions or captions cannot prove the process”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "folio",
@@ -244,32 +244,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The warning sign suggests…",
+      "Before changing the work, I would…",
+      "My evidence would prove…"
     ],
     "prompts": [
-      "State the controlling idea from \"Building an authentic Clock project folio\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Building an authentic Clock project folio”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "The folio is strongest when every item has a purpose and the sequence shows what the student knew, did, checked and improved."
   },
   {
-    "title": "2. Apply: Photographing and captioning key Clock construction stages",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "2. Prove: Photographing and captioning key Clock construction stages",
+    "prompt": "Plan how “a focused stage photo with a caption naming what, why and result” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "photo",
@@ -288,32 +289,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "The evidence should show…",
+      "This links to the approved process because…",
+      "It is convincing when…"
     ],
     "prompts": [
-      "State the controlling idea from \"Photographing and captioning key Clock construction stages\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Photographing and captioning key Clock construction stages”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "Purposeful evidence is safer and more convincing than taking many unplanned photos that do not explain the Clock process."
   },
   {
-    "title": "3. Apply: Using PMI to evaluate the finished Clock",
-    "prompt": "Explain the main principle in this section and apply it to one real decision or quality check in the Clock project.",
-    "minWords": 75,
+    "title": "3. Decision: Using PMI to evaluate the finished Clock",
+    "prompt": "Use one real Clock stage to explain why “PMI separates positives, minuses and interesting findings before a final judgement”. Describe the decision and how you would test function and compare evidence with the brief before writing the evaluation.",
+    "minWords": 65,
     "concepts": [
       {
         "label": "PMI",
@@ -332,32 +334,33 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "quality check",
+        "label": "verified check",
         "terms": [
           "check",
           "evidence",
           "drawing",
           "brief",
-          "approved"
+          "approved",
+          "teacher"
         ]
       }
     ],
     "scaffold": [
-      "The main principle is…",
-      "In the Clock project, this matters when…",
-      "I would check the result by…"
+      "At this Clock stage…",
+      "The controlling principle is…",
+      "I would verify it by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Using PMI to evaluate the finished Clock\".",
-      "Apply the idea to a specific Clock stage.",
-      "Finish with a clear quality or evidence check."
+      "Use a specific idea from “Using PMI to evaluate the finished Clock”.",
+      "Apply it to an actual Clock stage or decision.",
+      "Finish with a verified check or evidence statement."
     ],
     "model": "An honest PMI uses specific evidence and turns a limitation into a realistic improvement for a future build."
   },
   {
-    "title": "4. Connect the two-week module",
-    "prompt": "Explain how the three topics in Weeks 17-18 work together to improve the safety, accuracy, quality or evidence of the Clock project.",
-    "minWords": 110,
+    "title": "4. Connect the week’s decisions",
+    "prompt": "Build a short decision chain for Weeks 17-18: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "minWords": 90,
     "concepts": [
       {
         "label": "Building an authentic Clock project folio",
@@ -388,15 +391,15 @@ window.WRITTEN_QUESTIONS = [
       }
     ],
     "scaffold": [
-      "The first topic contributes by…",
-      "This connects with the second topic because…",
-      "Together, the three checks improve the Clock by…"
+      "First, I must verify…",
+      "The next approved step depends on…",
+      "The evidence that proves readiness is…"
     ],
     "prompts": [
-      "Include a specific idea from \"Building an authentic Clock project folio\".",
-      "Include a specific idea from \"Photographing and captioning key Clock construction stages\".",
-      "Include a specific idea from \"Using PMI to evaluate the finished Clock\"."
+      "Include one verified decision from “Building an authentic Clock project folio”.",
+      "Include one verified decision from “Photographing and captioning key Clock construction stages”.",
+      "Include one verified decision from “Using PMI to evaluate the finished Clock”."
     ],
-    "model": "Weeks 17-18 connect three parts of the same project. The folio is strongest when every item has a purpose and the sequence shows what the student knew, did, checked and improved. Purposeful evidence is safer and more convincing than taking many unplanned photos that do not explain the Clock process. An honest PMI uses specific evidence and turns a limitation into a realistic improvement for a future build. Together, these ideas improve the Clock because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Weeks 17-18 form a controlled sequence. The folio is strongest when every item has a purpose and the sequence shows what the student knew, did, checked and improved. Purposeful evidence is safer and more convincing than taking many unplanned photos that do not explain the Clock process. An honest PMI uses specific evidence and turns a limitation into a realistic improvement for a future build. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
   }
 ];
