@@ -1,0 +1,117 @@
+:root {
+  --brand: #0b5fad;
+  --brand-dark: #073f75;
+  --accent: #8b5a20;
+  --accent-light: #f7efe5;
+  --amber: #8a5700;
+  --amber-light: #fff3d5;
+}
+
+.landing-hero,
+.lesson-hero {
+  background-image:
+    radial-gradient(circle at 82% 50%, rgba(255, 196, 93, .19), transparent 26%),
+    linear-gradient(112deg, #062f58 0%, #075b9e 58%, #0f76b6 100%);
+  background-position: center;
+  background-size: cover;
+}
+
+.landing-hero .hero-inner {
+  grid-template-columns: minmax(0, 760px) minmax(210px, 310px);
+  min-height: clamp(350px, 36vw, 430px);
+}
+
+.landing-hero .hero-chair,
+.lesson-hero .hero-chair {
+  display: block;
+}
+
+.lesson-hero .hero-inner {
+  grid-template-columns: minmax(0, 1fr) 250px;
+}
+
+.clock-hero-product {
+  border-radius: 24px;
+  box-shadow: 0 22px 46px rgba(0, 0, 0, .26);
+  max-height: 300px;
+}
+
+.landing-main {
+  margin-top: 28px;
+}
+
+.welcome-card {
+  border-left: 6px solid #c78c35;
+  background: linear-gradient(90deg, #fffaf1, #fff);
+}
+
+.welcome-card h2 {
+  color: var(--brand-dark);
+  margin: .2rem 0 .45rem;
+}
+
+.lesson-visual {
+  margin: 1.4rem 0 0;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #f8fbfe;
+  text-align: center;
+}
+
+.lesson-visual img {
+  display: block;
+  width: min(100%, 680px);
+  max-height: 430px;
+  object-fit: contain;
+  margin: 0 auto;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.lesson-visual figcaption {
+  margin-top: .7rem;
+  color: var(--muted);
+  font-size: .92rem;
+}
+
+.pending-theory {
+  padding: 1rem;
+  border: 2px dashed var(--danger);
+  border-radius: 12px;
+  background: var(--danger-light);
+}
+
+.phase-card.current {
+  border-color: #c78c35;
+  background: #fff8e9;
+}
+
+.part-banner {
+  background: linear-gradient(100deg, #073f75, #0b5fad 70%, #8b5a20);
+}
+
+@media (max-width: 760px) {
+  .landing-hero .hero-inner,
+  .lesson-hero .hero-inner {
+    grid-template-columns: 1fr;
+    text-align: left;
+  }
+
+  .landing-hero .hero-chair,
+  .lesson-hero .hero-chair {
+    max-height: 230px;
+    margin: 0 auto 2rem;
+  }
+
+  .clock-hero-product {
+    border-radius: 18px;
+  }
+}
+
+@media print {
+  .lesson-visual {
+    break-inside: avoid;
+    box-shadow: none;
+  }
+}
