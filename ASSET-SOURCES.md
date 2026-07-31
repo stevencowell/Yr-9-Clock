@@ -8,7 +8,13 @@
 - `assets/reference/clock-assessment-requirements.png` is a rendering of the assessment page that lists the Clock project requirements.
 - `assets/reference/timber-defects.png` is the existing Clock-source comparison of clear timber and a visible knot.
 
-The landing page, module banners and high-risk folio guides use these authoritative sources rather than an unverified product rendering.
+Module banners and high-risk folio guides use these authoritative sources rather than an unverified product rendering.
+
+## Illustrative landing asset
+
+- `assets/clock-hero-illustrative-v2.png` is the approved illustrative landing-page hero created for this course revision.
+- It provides project atmosphere and an inviting visual introduction only. It is not a working drawing, dimensional reference, construction record or model for assessing technical accuracy.
+- The landing-page caption directs students to the supplied project plans, which remain the technical and dimensional authority.
 
 ## Construction Supplementary Materials references
 
