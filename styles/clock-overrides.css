@@ -115,9 +115,8 @@
 .hero-proof {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  position: absolute;
-  right: -10px;
-  bottom: clamp(3.2rem, 6vw, 5.5rem);
+  margin-top: .9rem;
+  width: min(100%, 280px);
   min-width: 220px;
   padding: .9rem 1rem;
   border-radius: 18px;
@@ -272,8 +271,8 @@
   }
 
   .hero-proof {
-    right: 5%;
-    bottom: 1rem;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .theory-rhythm {
