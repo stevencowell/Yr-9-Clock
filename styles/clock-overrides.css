@@ -112,32 +112,6 @@
   text-align: center;
 }
 
-.hero-proof {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  margin-top: .9rem;
-  width: min(100%, 280px);
-  min-width: 220px;
-  padding: .9rem 1rem;
-  border-radius: 18px;
-  background: rgba(255,255,255,.96);
-  color: var(--brand-dark);
-  box-shadow: 0 18px 40px rgba(0,0,0,.2);
-}
-
-.hero-proof strong {
-  grid-row: span 2;
-  align-self: center;
-  font-size: 1.65rem;
-}
-
-.hero-proof span {
-  font-size: .78rem;
-  font-weight: 800;
-  letter-spacing: .04em;
-  text-transform: uppercase;
-}
-
 .theory-rhythm {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -270,11 +244,6 @@
     margin: 0 auto 1.5rem;
   }
 
-  .hero-proof {
-    margin-left: auto;
-    margin-right: auto;
-  }
-
   .theory-rhythm {
     grid-template-columns: 1fr;
   }
@@ -292,15 +261,6 @@
   .landing-hero .clock-hero-product {
     aspect-ratio: 4 / 5;
     border-radius: 20px;
-  }
-
-  .hero-proof {
-    position: relative;
-    right: auto;
-    bottom: auto;
-    width: 100%;
-    min-width: 0;
-    margin-top: 1rem;
   }
 
   .hero-image-note {
