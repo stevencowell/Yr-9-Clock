@@ -12,7 +12,7 @@ Module banners and high-risk folio guides use these authoritative sources rather
 
 ## Illustrative landing asset
 
-- `assets/clock-hero-illustrative-v2.png` is the approved illustrative landing-page hero created for this course revision.
+- `assets/clock-hero-illustrative-v3.png` is the approved illustrative landing-page hero used for the current Clock hero banner.
 - It provides project atmosphere and an inviting visual introduction only. It is not a working drawing, dimensional reference, construction record or model for assessing technical accuracy.
 - The landing-page caption directs students to the supplied project plans, which remain the technical and dimensional authority.
 

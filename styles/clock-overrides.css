@@ -65,9 +65,9 @@
 .landing-hero .clock-hero-product {
   width: min(100%, 480px);
   max-height: none;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
-  object-position: 72% center;
+  object-position: 50% center;
   border: 1px solid rgba(255,255,255,.35);
   border-radius: 30px;
   box-shadow: 0 30px 70px rgba(0,0,0,.34);
@@ -259,7 +259,7 @@
   }
 
   .landing-hero .clock-hero-product {
-    width: min(100%, 560px);
+    width: min(100%, 460px);
   }
 
   .lesson-hero .clock-hero-product {
@@ -291,7 +291,7 @@
   }
 
   .landing-hero .clock-hero-product {
-    aspect-ratio: 16 / 10;
+    aspect-ratio: 4 / 5;
     border-radius: 20px;
   }
 
