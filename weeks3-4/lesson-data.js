@@ -265,7 +265,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply it to an actual Clock stage or decision.",
       "Finish with a verified check or evidence statement."
     ],
-    "model": "Inspecting grain and defects helps the student position or reject a piece for a reason rather than assuming every natural feature is harmless or unusable."
+    "model": "I would inspect grain and defects so I can position or reject a piece for a reason instead of assuming every natural feature is harmless or unusable."
   },
   {
     "title": "2. Diagnose: Writing a Work Method Statement for the Clock",
@@ -400,6 +400,6 @@ window.WRITTEN_QUESTIONS = [
       "Include one verified decision from “Writing a Work Method Statement for the Clock”.",
       "Include one verified decision from “Cutting lists, material calculations and cost planning”."
     ],
-    "model": "Weeks 3-4 form a controlled sequence. Inspecting grain and defects helps the student position or reject a piece for a reason rather than assuming every natural feature is harmless or unusable. The WMS should show what happens, in what approved order, what could go wrong, how it is controlled and what proves the stage is complete. The cutting list should be traceable to the drawing and make quantities, dimensions and material use clear without invented stock sizes or prices. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
+    "model": "I would inspect grain and defects so I can position or reject a piece for a reason instead of assuming every natural feature is harmless or unusable. The WMS should show what happens, in what approved order, what could go wrong, how it is controlled and what proves the stage is complete. The cutting list should be traceable to the drawing and make quantities, dimensions and material use clear without invented stock sizes or prices."
   }
 ];

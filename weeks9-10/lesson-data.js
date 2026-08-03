@@ -400,6 +400,6 @@ window.WRITTEN_QUESTIONS = [
       "Include one verified decision from “Responsible material use and off-cut selection”.",
       "Include one verified decision from “Testing drawer fit and diagnosing faults”."
     ],
-    "model": "Weeks 9-10 form a controlled sequence. A functional drawer is achieved through controlled checking and small approved corrections, not by guessing a clearance or forcing the parts. Responsible reuse means choosing a sound off-cut that genuinely suits the part and recording how the decision reduced waste. A measured diagnosis explains what the drawer did, what caused it, how that cause was checked and why the approved correction was appropriate. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
+    "model": "A functional drawer is achieved through controlled checking and small approved corrections, not by guessing a clearance or forcing the parts. Responsible reuse means choosing a sound off-cut that genuinely suits the part and recording how the decision reduced waste. A measured diagnosis explains what the drawer did, what caused it, how that cause was checked and why the approved correction was appropriate."
   }
 ];

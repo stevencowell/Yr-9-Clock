@@ -355,7 +355,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply it to an actual Clock stage or decision.",
       "Finish with a verified check or evidence statement."
     ],
-    "model": "The student should dry fit first, apply the approved adhesive as directed and use clamps to hold an already accurate assembly without introducing distortion."
+    "model": "I would dry fit first, apply the approved adhesive as directed and use clamps to hold an accurate assembly without distorting it."
   },
   {
     "title": "4. Connect the week’s decisions",
@@ -400,6 +400,6 @@ window.WRITTEN_QUESTIONS = [
       "Include one verified decision from “Chamfered edges: controlled shaping and design effect”.",
       "Include one verified decision from “Adhesive assembly, squareness and clamping”."
     ],
-    "model": "Weeks 7-8 form a controlled sequence. The rebate is successful when its verified position and size locate the mating part cleanly without forcing, gaps or unwanted projection. A quality chamfer is controlled by the approved drawing or teacher direction, remains even along its length and is checked in matching pairs. The student should dry fit first, apply the approved adhesive as directed and use clamps to hold an already accurate assembly without introducing distortion. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
+    "model": "The rebate is successful when its verified position and size locate the mating part cleanly without forcing, gaps or unwanted projection. A quality chamfer is controlled by the approved drawing or teacher direction, remains even along its length and is checked in matching pairs. I would dry fit first, apply the approved adhesive as directed and use clamps to hold an accurate assembly without distorting it."
   }
 ];

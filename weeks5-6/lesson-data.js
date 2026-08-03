@@ -400,6 +400,6 @@ window.WRITTEN_QUESTIONS = [
       "Include one verified decision from “Building an accurate drill press Safe Operating Procedure”.",
       "Include one verified decision from “Workshop housekeeping and care of Clock tools”."
     ],
-    "model": "Weeks 5-6 form a controlled sequence. A sound plan proves the opening location, secures the work and follows the approved drill press procedure without inventing settings. A valid student SOP accurately reflects the school machine and procedure; it does not turn general advice into unsupported operating instructions. Caring for tools and clearing the work area is part of accurate collaborative workshop practice, not a separate chore after the real work. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
+    "model": "A sound plan proves the opening location, secures the work and follows the approved drill press procedure without inventing settings. A valid student SOP accurately reflects the school machine and procedure; it does not turn general advice into unsupported operating instructions. Caring for tools and clearing the work area is part of accurate collaborative workshop practice, not a separate chore after the real work."
   }
 ];

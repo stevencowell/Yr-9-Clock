@@ -265,7 +265,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply it to an actual Clock stage or decision.",
       "Finish with a verified check or evidence statement."
     ],
-    "model": "The folio is strongest when every item has a purpose and the sequence shows what the student knew, did, checked and improved."
+    "model": "My folio should include only useful evidence, in order, showing what I knew, did, checked and improved."
   },
   {
     "title": "2. Prove: Photographing and captioning key Clock construction stages",
@@ -400,6 +400,6 @@ window.WRITTEN_QUESTIONS = [
       "Include one verified decision from “Photographing and captioning key Clock construction stages”.",
       "Include one verified decision from “Using PMI to evaluate the finished Clock”."
     ],
-    "model": "Weeks 17-18 form a controlled sequence. The folio is strongest when every item has a purpose and the sequence shows what the student knew, did, checked and improved. Purposeful evidence is safer and more convincing than taking many unplanned photos that do not explain the Clock process. An honest PMI uses specific evidence and turns a limitation into a realistic improvement for a future build. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
+    "model": "My folio should include only useful evidence, in order, showing what I knew, did, checked and improved. Purposeful evidence is safer and more convincing than taking many unplanned photos that do not explain the Clock process. An honest PMI uses specific evidence and turns a limitation into a realistic improvement for a future build."
   }
 ];

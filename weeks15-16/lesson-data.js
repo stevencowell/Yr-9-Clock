@@ -400,6 +400,6 @@ window.WRITTEN_QUESTIONS = [
       "Include one verified decision from “Technical sketches, orthographic views and clear communication”.",
       "Include one verified decision from “Current and emerging timber technologies connected to the Clock”."
     ],
-    "model": "Weeks 15-16 form a controlled sequence. A defensible design decision explains how the approved choice improves the Clock while still meeting function, manufacture and assessment requirements. Clear technical communication selects the right view and makes the controlling information explicit without scaling the picture. A strong comparison explains what changes, what remains important and when the technology would or would not suit the Clock process. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
+    "model": "A defensible design decision explains how the approved choice improves the Clock while still meeting function, manufacture and assessment requirements. Clear technical communication selects the right view and makes the controlling information explicit without scaling the picture. A strong comparison explains what changes, what remains important and when the technology would or would not suit the Clock process."
   }
 ];

@@ -310,7 +310,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply it to an actual Clock stage or decision.",
       "Finish with a verified check or evidence statement."
     ],
-    "model": "The student improves when feedback changes the explanation and can be applied to a new Clock scenario."
+    "model": "I improve my answer when I use feedback to change my explanation and apply it to a new Clock scenario."
   },
   {
     "title": "3. Decision: Submission, reflection and transferable workshop skills",
@@ -355,7 +355,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply it to an actual Clock stage or decision.",
       "Finish with a verified check or evidence statement."
     ],
-    "model": "A complete hand-off combines verified files with an honest explanation of what the student can carry into the next project."
+    "model": "For hand-off, I would check my files and explain one skill I can use in the next project."
   },
   {
     "title": "4. Connect the week’s decisions",
@@ -400,6 +400,6 @@ window.WRITTEN_QUESTIONS = [
       "Include one verified decision from “Revising Clock theory and using feedback”.",
       "Include one verified decision from “Submission, reflection and transferable workshop skills”."
     ],
-    "model": "Weeks 19-20 form a controlled sequence. Final QA is a complete inspection against the brief, not a quick judgement based only on overall appearance. The student improves when feedback changes the explanation and can be applied to a new Clock scenario. A complete hand-off combines verified files with an honest explanation of what the student can carry into the next project. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
+    "model": "Final QA is a complete inspection against the brief, not a quick judgement based only on overall appearance. I improve my answer when I use feedback to change my explanation and apply it to a new Clock scenario. For hand-off, I would check my files and explain one skill I can use in the next project."
   }
 ];

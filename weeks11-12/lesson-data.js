@@ -400,6 +400,6 @@ window.WRITTEN_QUESTIONS = [
       "Include one verified decision from “Selecting timber for function, appearance and responsible use”.",
       "Include one verified decision from “Sanding for a consistent oil-ready surface”."
     ],
-    "model": "Weeks 11-12 form a controlled sequence. Understanding moisture helps explain why stable timber and repeated checks matter to the Clock rather than treating timber as an unchanging material. A justified choice names the qualities that matter to the particular Clock part instead of making a broad claim about an unnamed species. The surface is ready when the approved preparation sequence is complete and inspection shows consistent texture without unresolved defects. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
+    "model": "Understanding moisture helps explain why stable timber and repeated checks matter to the Clock rather than treating timber as an unchanging material. A justified choice names the qualities that matter to the particular Clock part instead of making a broad claim about an unnamed species. The surface is ready when the approved preparation sequence is complete and inspection shows consistent texture without unresolved defects."
   }
 ];

@@ -265,7 +265,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply it to an actual Clock stage or decision.",
       "Finish with a verified check or evidence statement."
     ],
-    "model": "The Clock meets the brief when its verified features function well and the student can prove how the work was planned, made and evaluated."
+    "model": "My Clock meets the brief when its checked features work properly and I can prove how I planned, made and evaluated it."
   },
   {
     "title": "2. Prove: Reading the Clock working drawing without scaling",
@@ -310,7 +310,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply it to an actual Clock stage or decision.",
       "Finish with a verified check or evidence statement."
     ],
-    "model": "The student should identify the view, trace the dimension line to the controlled surfaces and use the written millimetre value rather than scaling the image."
+    "model": "I would identify the correct view, trace the dimension line to its surfaces and use the written millimetre value instead of measuring a resized image."
   },
   {
     "title": "3. Decision: Managing workshop hazards and risks for the Clock",
@@ -355,7 +355,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply it to an actual Clock stage or decision.",
       "Finish with a verified check or evidence statement."
     ],
-    "model": "The strongest response identifies the hazard, describes the possible harm and applies higher-order controls, teacher direction and PPE in the correct role."
+    "model": "I would name the hazard and possible harm, then apply higher-level controls, teacher directions and PPE in the correct role."
   },
   {
     "title": "4. Connect the week’s decisions",
@@ -400,6 +400,6 @@ window.WRITTEN_QUESTIONS = [
       "Include one verified decision from “Reading the Clock working drawing without scaling”.",
       "Include one verified decision from “Managing workshop hazards and risks for the Clock”."
     ],
-    "model": "Weeks 1-2 form a controlled sequence. The Clock meets the brief when its verified features function well and the student can prove how the work was planned, made and evaluated. The student should identify the view, trace the dimension line to the controlled surfaces and use the written millimetre value rather than scaling the image. The strongest response identifies the hazard, describes the possible harm and applies higher-order controls, teacher direction and PPE in the correct role. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
+    "model": "My Clock meets the brief when its checked features work properly and I can prove how I planned, made and evaluated it. I would identify the correct view, trace the dimension line to its surfaces and use the written millimetre value instead of measuring a resized image. I would name the hazard and possible harm, then apply higher-level controls, teacher directions and PPE in the correct role."
   }
 ];

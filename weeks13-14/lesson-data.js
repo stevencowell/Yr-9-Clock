@@ -400,6 +400,6 @@ window.WRITTEN_QUESTIONS = [
       "Include one verified decision from “Oil finish safety, application and between-coat quality”.",
       "Include one verified decision from “Accurate fit-up of the battery clock mechanism”."
     ],
-    "model": "Weeks 13-14 form a controlled sequence. The finish plan is specific to the approved product and records each coat rather than treating three coats as three rushed repetitions. A quality coat is safe, even and inspected; the next coat begins only when the selected product information and teacher direction allow it. Successful fit-up protects the finish, uses the supplied hardware information and proves both alignment and function. The Clock should move forward only when each decision is checked against the approved source and supported by useful evidence."
+    "model": "The finish plan is specific to the approved product and records each coat rather than treating three coats as three rushed repetitions. A quality coat is safe, even and inspected; the next coat begins only when the selected product information and teacher direction allow it. Successful fit-up protects the finish, uses the supplied hardware information and proves both alignment and function."
   }
 ];
