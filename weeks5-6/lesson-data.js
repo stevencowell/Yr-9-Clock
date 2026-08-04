@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Prove: Planning and drilling the Clock face opening",
     "prompt": "Plan how “a pre-start check and photograph of the marked, secured work before operation” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
     "minWords": 65,
     "concepts": [
       {
@@ -270,6 +271,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Prove: Building an accurate drill press Safe Operating Procedure",
     "prompt": "Plan how “an SOP cross-check showing the school source and the relevant Clock operation” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
     "minWords": 65,
     "concepts": [
       {
@@ -315,6 +317,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Decision: Workshop housekeeping and care of Clock tools",
     "prompt": "Use one real Clock stage to explain why “housekeeping and tool care protect people, accuracy and shared equipment”. Describe the decision and how you would follow the actual storage and end-of-lesson procedures while reporting damage.",
+    "clarification": "How does Workshop housekeeping and care of Clock tools affect the project? What decision and check would you use?",
     "minWords": 65,
     "concepts": [
       {
@@ -360,6 +363,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Connect the week’s decisions",
     "prompt": "Build a short decision chain for Weeks 5-6: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "clarification": "What must be checked first? What happens next? What evidence shows you can move on?",
     "minWords": 90,
     "concepts": [
       {

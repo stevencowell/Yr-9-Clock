@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Diagnose: Applying design principles to the Clock",
     "prompt": "A result shows this warning sign: “a decorative choice can weaken unity or function if it ignores the project constraints”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "clarification": "What is the likely weakness? Which approved check and evidence would prove it?",
     "minWords": 65,
     "concepts": [
       {
@@ -270,6 +271,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Prove: Technical sketches, orthographic views and clear communication",
     "prompt": "Plan how “a dated drawing or sketch that another person can interpret accurately” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
     "minWords": 65,
     "concepts": [
       {
@@ -315,6 +317,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Decision: Current and emerging timber technologies connected to the Clock",
     "prompt": "Use one real Clock stage to explain why “technology should be evaluated for accuracy, safety, waste, skill and access rather than assumed to be better”. Describe the decision and how you would compare the verified hand or school process with an appropriate industry method.",
+    "clarification": "How does Current and emerging timber technologies connected to the Clock affect the project? What decision and check would you use?",
     "minWords": 65,
     "concepts": [
       {
@@ -360,6 +363,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Connect the week’s decisions",
     "prompt": "Build a short decision chain for Weeks 15-16: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "clarification": "What must be checked first? What happens next? What evidence shows you can move on?",
     "minWords": 90,
     "concepts": [
       {

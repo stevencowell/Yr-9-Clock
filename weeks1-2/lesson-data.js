@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Diagnose: Understanding the Clock project brief and success criteria",
     "prompt": "A result shows this warning sign: “a finished object with missing planning or poor accuracy does not fully meet the brief”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "clarification": "What is the likely weakness? Which approved check and evidence would prove it?",
     "minWords": 65,
     "concepts": [
       {
@@ -270,6 +271,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Prove: Reading the Clock working drawing without scaling",
     "prompt": "Plan how “a marked component cross-checked against the written drawing” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
     "minWords": 65,
     "concepts": [
       {
@@ -315,6 +317,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Decision: Managing workshop hazards and risks for the Clock",
     "prompt": "Use one real Clock stage to explain why “a hazard can cause harm, risk considers likelihood and consequence, and controls reduce exposure”. Describe the decision and how you would use the hierarchy and the approved SOP before relying on PPE.",
+    "clarification": "How does Managing workshop hazards and risks for the Clock affect the project? What decision and check would you use?",
     "minWords": 65,
     "concepts": [
       {
@@ -360,6 +363,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Connect the week’s decisions",
     "prompt": "Build a short decision chain for Weeks 1-2: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "clarification": "What must be checked first? What happens next? What evidence shows you can move on?",
     "minWords": 90,
     "concepts": [
       {

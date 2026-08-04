@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Diagnose: Planning the three-coat oil finish",
     "prompt": "A result shows this warning sign: “copying a drying time or disposal method from another product can be unsafe and damage quality”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "clarification": "What is the likely weakness? Which approved check and evidence would prove it?",
     "minWords": 65,
     "concepts": [
       {
@@ -270,6 +271,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Prove: Oil finish safety, application and between-coat quality",
     "prompt": "Plan how “coat photographs and notes showing coverage, defects and corrective decision” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
     "minWords": 65,
     "concepts": [
       {
@@ -315,6 +317,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Decision: Accurate fit-up of the battery clock mechanism",
     "prompt": "Use one real Clock stage to explain why “the supplied mechanism must align, clear surrounding parts and operate without being forced”. Describe the decision and how you would check compatibility and orientation using the actual component information before final fit-up.",
+    "clarification": "How does Accurate fit-up of the battery clock mechanism affect the project? What decision and check would you use?",
     "minWords": 65,
     "concepts": [
       {
@@ -360,6 +363,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Connect the week’s decisions",
     "prompt": "Build a short decision chain for Weeks 13-14: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "clarification": "What must be checked first? What happens next? What evidence shows you can move on?",
     "minWords": 90,
     "concepts": [
       {

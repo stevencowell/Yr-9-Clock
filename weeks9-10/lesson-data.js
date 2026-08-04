@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Diagnose: The hidden drawer: accuracy, clearance and fit",
     "prompt": "A result shows this warning sign: “forcing a tight drawer can damage edges while removing material blindly can create excessive play”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "clarification": "What is the likely weakness? Which approved check and evidence would prove it?",
     "minWords": 65,
     "concepts": [
       {
@@ -270,6 +271,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Prove: Responsible material use and off-cut selection",
     "prompt": "Plan how “a labelled off-cut photograph explaining why it was selected” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
     "minWords": 65,
     "concepts": [
       {
@@ -315,6 +317,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Diagnose: Testing drawer fit and diagnosing faults",
     "prompt": "A result shows this warning sign: “sanding the first tight area seen may hide the real cause and create a second fault”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "clarification": "What is the likely weakness? Which approved check and evidence would prove it?",
     "minWords": 65,
     "concepts": [
       {
@@ -360,6 +363,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Connect the week’s decisions",
     "prompt": "Build a short decision chain for Weeks 9-10: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "clarification": "What must be checked first? What happens next? What evidence shows you can move on?",
     "minWords": 90,
     "concepts": [
       {

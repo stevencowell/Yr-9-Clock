@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Diagnose: Building an authentic Clock project folio",
     "prompt": "A result shows this warning sign: “a collection of final photos without decisions or captions cannot prove the process”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "clarification": "What is the likely weakness? Which approved check and evidence would prove it?",
     "minWords": 65,
     "concepts": [
       {
@@ -270,6 +271,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Prove: Photographing and captioning key Clock construction stages",
     "prompt": "Plan how “a focused stage photo with a caption naming what, why and result” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
     "minWords": 65,
     "concepts": [
       {
@@ -315,6 +317,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Decision: Using PMI to evaluate the finished Clock",
     "prompt": "Use one real Clock stage to explain why “PMI separates positives, minuses and interesting findings before a final judgement”. Describe the decision and how you would test function and compare evidence with the brief before writing the evaluation.",
+    "clarification": "How does Using PMI to evaluate the finished Clock affect the project? What decision and check would you use?",
     "minWords": 65,
     "concepts": [
       {
@@ -360,6 +363,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Connect the week’s decisions",
     "prompt": "Build a short decision chain for Weeks 17-18: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "clarification": "What must be checked first? What happens next? What evidence shows you can move on?",
     "minWords": 90,
     "concepts": [
       {

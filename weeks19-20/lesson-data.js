@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Diagnose: Final quality assurance for the completed Clock",
     "prompt": "A result shows this warning sign: “fixing one visible issue can distract from a functional or evidence gap”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "clarification": "What is the likely weakness? Which approved check and evidence would prove it?",
     "minWords": 65,
     "concepts": [
       {
@@ -270,6 +271,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Prove: Revising Clock theory and using feedback",
     "prompt": "Plan how “a correction log with the original error, correct idea and Clock example” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
     "minWords": 65,
     "concepts": [
       {
@@ -315,6 +317,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Decision: Submission, reflection and transferable workshop skills",
     "prompt": "Use one real Clock stage to explain why “the final evidence package should be complete, backed up and linked to skills that transfer beyond this project”. Describe the decision and how you would verify names, files, readable evidence and teacher submission directions before hand-off.",
+    "clarification": "How does Submission, reflection and transferable workshop skills affect the project? What decision and check would you use?",
     "minWords": 65,
     "concepts": [
       {
@@ -360,6 +363,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Connect the week’s decisions",
     "prompt": "Build a short decision chain for Weeks 19-20: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "clarification": "What must be checked first? What happens next? What evidence shows you can move on?",
     "minWords": 90,
     "concepts": [
       {

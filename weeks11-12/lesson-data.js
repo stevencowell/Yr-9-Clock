@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Decision: Timber moisture, seasoning and dimensional stability",
     "prompt": "Use one real Clock stage to explain why “timber exchanges moisture with its environment and may move as conditions change”. Describe the decision and how you would select stable material and keep checking fit and straightness during the Clock build.",
+    "clarification": "How does Timber moisture, seasoning and dimensional stability affect the project? What decision and check would you use?",
     "minWords": 65,
     "concepts": [
       {
@@ -270,6 +271,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Prove: Selecting timber for function, appearance and responsible use",
     "prompt": "Plan how “an annotated selection photo and a short justification” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
     "minWords": 65,
     "concepts": [
       {
@@ -315,6 +317,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Decision: Sanding for a consistent oil-ready surface",
     "prompt": "Use one real Clock stage to explain why “surface preparation removes earlier marks progressively while protecting shape and edges”. Describe the decision and how you would inspect under good light and follow the approved abrasive and dust-control sequence.",
+    "clarification": "How does Sanding for a consistent oil-ready surface affect the project? What decision and check would you use?",
     "minWords": 65,
     "concepts": [
       {
@@ -360,6 +363,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Connect the week’s decisions",
     "prompt": "Build a short decision chain for Weeks 11-12: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "clarification": "What must be checked first? What happens next? What evidence shows you can move on?",
     "minWords": 90,
     "concepts": [
       {

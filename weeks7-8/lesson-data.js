@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Decision: Rebate joints in the Clock carcass",
     "prompt": "Use one real Clock stage to explain why “a rebate forms a controlled step that locates a mating part and can increase alignment and gluing area”. Describe the decision and how you would check the shoulder, depth and fit against the drawing before assembly.",
+    "clarification": "How does Rebate joints in the Clock carcass affect the project? What decision and check would you use?",
     "minWords": 65,
     "concepts": [
       {
@@ -270,6 +271,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Diagnose: Chamfered edges: controlled shaping and design effect",
     "prompt": "A result shows this warning sign: “uneven passes or working carelessly against the grain can create inconsistent edges and tear-out”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "clarification": "What is the likely weakness? Which approved check and evidence would prove it?",
     "minWords": 65,
     "concepts": [
       {
@@ -315,6 +317,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Prove: Adhesive assembly, squareness and clamping",
     "prompt": "Plan how “a clamped assembly photograph with the square check identified” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
+    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
     "minWords": 65,
     "concepts": [
       {
@@ -360,6 +363,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Connect the week’s decisions",
     "prompt": "Build a short decision chain for Weeks 7-8: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "clarification": "What must be checked first? What happens next? What evidence shows you can move on?",
     "minWords": 90,
     "concepts": [
       {

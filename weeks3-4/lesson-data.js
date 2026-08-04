@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Diagnose: Timber grain, structure and defects in Clock components",
     "prompt": "A result shows this warning sign: “placing a split, severe distortion or unsuitable feature in a critical area can reduce quality”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "clarification": "What is the likely weakness? Which approved check and evidence would prove it?",
     "minWords": 65,
     "concepts": [
       {
@@ -270,6 +271,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Diagnose: Writing a Work Method Statement for the Clock",
     "prompt": "A result shows this warning sign: “a generic list of PPE does not explain how the Clock work will be managed”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
+    "clarification": "What is the likely weakness? Which approved check and evidence would prove it?",
     "minWords": 65,
     "concepts": [
       {
@@ -315,6 +317,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Decision: Cutting lists, material calculations and cost planning",
     "prompt": "Use one real Clock stage to explain why “a cutting list turns drawing information into controlled components, quantities and material requirements”. Describe the decision and how you would use written dimensions, approved stock information and current prices.",
+    "clarification": "How does Cutting lists, material calculations and cost planning affect the project? What decision and check would you use?",
     "minWords": 65,
     "concepts": [
       {
@@ -360,6 +363,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Connect the week’s decisions",
     "prompt": "Build a short decision chain for Weeks 3-4: explain what must be verified first, what comes next, and what evidence proves the Clock is ready to move on.",
+    "clarification": "What must be checked first? What happens next? What evidence shows you can move on?",
     "minWords": 90,
     "concepts": [
       {
