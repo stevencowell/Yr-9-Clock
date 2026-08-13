@@ -1,0 +1,5 @@
+/* Task 34: remove repeated orientation and keep the actual module pathway. */
+.course-family-hero figcaption,
+.welcome-card,
+.course-path { display:none!important; }
+.week-card .button-link { background:transparent!important; border:0!important; border-radius:inherit!important; box-shadow:none!important; }
