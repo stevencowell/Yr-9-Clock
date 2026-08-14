@@ -3,3 +3,18 @@
 .welcome-card,
 .course-path { display:none!important; }
 .week-card .button-link { background:transparent!important; border:0!important; border-radius:inherit!important; box-shadow:none!important; }
+
+/* Keep one shared hero frame and centre the Clock within it. */
+.course-family-hero .hero-showcase{padding:0!important}
+.course-family-hero .hero-showcase .clock-hero-product{
+  aspect-ratio:auto!important;
+  border:0!important;
+  border-radius:0!important;
+  box-shadow:none!important;
+  height:100%!important;
+  object-fit:cover!important;
+  object-position:center 52%!important;
+  padding:0!important;
+  transform:none!important;
+  width:100%!important;
+}
