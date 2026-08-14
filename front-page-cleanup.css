@@ -3,3 +3,6 @@
 .welcome-card,
 .course-path { display:none!important; }
 .week-card .button-link { background:transparent!important; border:0!important; border-radius:inherit!important; box-shadow:none!important; }
+
+/* Let the Clock fill its hero frame while keeping the project centred. */
+.course-family-hero .hero-showcase .clock-hero-product { object-fit:cover !important; object-position:center 48% !important; padding:0 !important; }
