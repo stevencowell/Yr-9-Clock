@@ -14,6 +14,18 @@
   if (studentKicker) studentKicker.textContent = "Student evidence";
   if (studentTitle) studentTitle.textContent = "Your details";
 
+  document.querySelectorAll(".lesson-visual img, .hero-source img").forEach((image) => {
+    const figure = image.closest("figure");
+    if (!figure || figure.querySelector(".open-larger-link")) return;
+    const link = document.createElement("a");
+    link.className = "open-larger-link screen-only";
+    link.href = image.currentSrc || image.src;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent = "Open larger";
+    figure.append(link);
+  });
+
   const videos = {
     "weeks3-4": [{
       section: "theory-1",
