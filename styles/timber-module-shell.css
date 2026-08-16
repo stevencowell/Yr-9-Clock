@@ -29,17 +29,20 @@ footer {
   min-height: 295px;
   display: grid;
   align-items: center;
-  padding: 38px 0;
+  padding: 0;
   background: linear-gradient(115deg, var(--timber-hero-start), var(--timber-hero-end));
   color: var(--timber-ink);
 }
 
 .lesson-hero .hero-inner {
   display: block;
+  min-height: 0;
 }
 
 .lesson-hero .hero-copy {
   max-width: 940px;
+  padding: 0;
+  text-shadow: none;
 }
 
 .lesson-hero .hero-source {
@@ -237,7 +240,7 @@ main#main-content > * + * {
 
   .lesson-hero {
     min-height: 295px;
-    padding: 34px 0;
+    padding: 0;
   }
 
   .lesson-hero h1 {
