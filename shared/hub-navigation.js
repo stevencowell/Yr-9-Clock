@@ -38,7 +38,7 @@
     ["Course", "index.html", isHome],
     ["Modules", "index.html#course-map-title", /\/weeks\d+-\d+\//.test(path)],
     ["Video learning", "youtube-library/", path.includes("/youtube-library/")],
-    ["Busy Work", "https://stevencowell.github.io/busy-worksheets/?library=timber", false, true],
+    ["Puzzles", "https://stevencowell.github.io/busy-worksheets/?library=timber", false, true],
     ["My folio", "clock-folio.html", path.endsWith("/clock-folio.html")],
     ["Project plans", "Drawing%201%20(1).pdf", false],
     ["Teacher resources", "teacher-resources.html", path.endsWith("/teacher-resources.html")],
