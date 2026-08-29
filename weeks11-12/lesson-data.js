@@ -269,16 +269,18 @@ window.WRITTEN_QUESTIONS = [
     "model": "Understanding moisture helps explain why stable timber and repeated checks matter to the Clock rather than treating timber as an unchanging material."
   },
   {
-    "title": "2. Prove: Selecting timber for function, appearance and responsible use",
-    "prompt": "Plan how “an annotated selection photo and a short justification” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
-    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
+    "title": "2. Compare and justify hardwood and softwood selection",
+    "prompt": "Compare one teacher-approved hardwood and one softwood using grain, equal-size weight, density and texture. Then justify which material is more suitable for one named Clock component and explain what an annotated selection photo or data record would prove.",
+    "clarification": "How do the two approved samples differ in grain, weight, density and texture, and why does that matter to one Clock component?",
     "minWords": 65,
     "concepts": [
       {
-        "label": "function",
+        "label": "named timber properties",
         "terms": [
-          "function",
-          "appearance"
+          "grain",
+          "weight",
+          "density",
+          "texture"
         ]
       },
       {
@@ -303,16 +305,16 @@ window.WRITTEN_QUESTIONS = [
       }
     ],
     "scaffold": [
-      "The evidence should show…",
-      "This links to the approved process because…",
-      "It is convincing when…"
+      "The hardwood and softwood differ because…",
+      "For this Clock component, the important properties are…",
+      "The evidence should prove…"
     ],
     "prompts": [
-      "Use a specific idea from “Selecting timber for function, appearance and responsible use”.",
-      "Apply it to an actual Clock stage or decision.",
-      "Finish with a verified check or evidence statement."
+      "Compare equal-size samples or approved data rather than relying on the group names.",
+      "Use grain, weight, density and texture explicitly.",
+      "Finish with a justified Clock selection and evidence statement."
     ],
-    "model": "A justified choice names the qualities that matter to the particular Clock part instead of making a broad claim about an unnamed species."
+    "model": "A justified choice compares the actual or approved hardwood and softwood evidence, then connects grain, equal-size weight, density and texture to the job of a specific Clock component without assuming every hardwood has the same properties."
   },
   {
     "title": "3. Decision: Sanding for a consistent oil-ready surface",

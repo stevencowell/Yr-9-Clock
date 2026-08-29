@@ -5,21 +5,21 @@ window.LESSON_CONFIG = {
 };
 window.MC_QUESTIONS = [
   {
-    "question": "A student is preparing for “Final quality assurance for the completed Clock”. Which principle should control the decision?",
+    "question": "Which sequence correctly applies testing, quality control (QC) and quality assurance (QA) as one production quality system?",
     "options": [
-      "final QA checks function, joints, drawer, mechanism, surface, finish and evidence systematically",
-      "fixing one visible issue can distract from a functional or evidence gap",
-      "The final appearance can replace process checks.",
-      "A remembered value is sufficient when the drawing is nearby."
+      "QA establishes approved criteria, checkpoints and evidence; testing records results; QC compares results with criteria and controls non-conforming work; final QA verifies the system was followed",
+      "Testing writes the procedures, QA repairs every fault and QC adds final photographs",
+      "Testing and QC mean exactly the same thing, while QA only judges appearance at the end",
+      "Final QA replaces all earlier testing and QC once the Clock looks complete"
     ],
     "correct": 0,
-    "hint": "Return to the opening and key-idea statements in “Final quality assurance for the completed Clock”.",
-    "strongHint": "Choose the principle supported by the approved Clock sources: final QA checks function, joints, drawer, mechanism, surface, finish and evidence systematically.",
+    "hint": "Testing produces evidence, QC acts on product results and QA plans and verifies the whole system.",
+    "strongHint": "Choose the sequence that links planned criteria, recorded tests, QC decisions and final system verification.",
     "feedback": [
-      "final QA checks function, joints, drawer, mechanism, surface, finish and evidence systematically",
-      "That describes a warning sign rather than the principle that should guide the work.",
-      "Appearance is only one part of the practical and evidence requirements.",
-      "Verified project information must replace memory or guessing."
+      "This is one connected quality system: QA plans the controls, testing supplies results, QC responds to those results and final QA verifies the full record.",
+      "Testing does not write the system and QA is not the physical repair step; approved corrections follow a QC decision.",
+      "Testing supplies results, while QC uses them to accept, contain or correct work; QA has a wider planned-system role.",
+      "A final check cannot recover missing production tests or QC checkpoints."
     ]
   },
   {
@@ -223,50 +223,70 @@ window.MC_QUESTIONS = [
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Diagnose: Final quality assurance for the completed Clock",
-    "prompt": "A result shows this warning sign: “fixing one visible issue can distract from a functional or evidence gap”. Explain the likely weakness, the approved check and the evidence that should be recorded.",
-    "clarification": "What is the likely weakness? Which approved check and evidence would prove it?",
-    "minWords": 65,
+    "title": "1. Apply one Clock quality-management system",
+    "prompt": "Apply testing, quality control and quality assurance as one production quality system for the Clock. Distinguish their roles, choose two relevant tests, explain the QC response to one non-conforming result and show how QA evidence verifies that the system operated throughout production.",
+    "clarification": "What does each part do, what will be tested, how will QC respond to a fault, and what will QA verify?",
+    "minWords": 105,
     "concepts": [
       {
-        "label": "quality",
+        "label": "testing",
         "terms": [
-          "quality",
-          "function"
+          "testing",
+          "test",
+          "measure",
+          "functional trial",
+          "recorded result"
         ]
       },
       {
-        "label": "Clock application",
+        "label": "quality control",
+        "terms": [
+          "quality control",
+          "qc",
+          "checkpoint",
+          "compare",
+          "non-conforming",
+          "fault"
+        ]
+      },
+      {
+        "label": "quality assurance",
+        "terms": [
+          "quality assurance",
+          "qa",
+          "criteria",
+          "procedure",
+          "responsibility",
+          "evidence",
+          "verify"
+        ]
+      },
+      {
+        "label": "integrated Clock system",
         "terms": [
           "clock",
-          "project",
-          "component",
-          "stage"
-        ]
-      },
-      {
-        "label": "verified check",
-        "terms": [
-          "check",
-          "evidence",
-          "drawing",
-          "brief",
-          "approved",
-          "teacher"
+          "system",
+          "sequence",
+          "throughout",
+          "decision"
         ]
       }
     ],
     "scaffold": [
-      "The warning sign suggests…",
-      "Before changing the work, I would…",
-      "My evidence would prove…"
+      "Quality assurance would establish…",
+      "The two tests would…",
+      "At each quality-control checkpoint…",
+      "If a result did not meet the criterion…",
+      "Final quality assurance would verify…"
     ],
     "prompts": [
-      "Use a specific idea from “Final quality assurance for the completed Clock”.",
-      "Apply it to an actual Clock stage or decision.",
-      "Finish with a verified check or evidence statement."
+      "Define the distinct role of testing, QC and QA.",
+      "Apply at least two recorded tests to actual Clock features or evidence.",
+      "Show how QC compares a result with a criterion and prevents a fault moving to the next stage.",
+      "Keep any correction teacher-approved and controlled by the relevant SOP.",
+      "Explain how final QA verifies the earlier checks, decisions and records as one system."
     ],
-    "model": "Final QA is a complete inspection against the brief, not a quick judgement based only on overall appearance."
+    "model": "In one Clock quality-management system, QA establishes the approved brief criteria, checkpoints, responsibilities and records. Testing then produces evidence, such as a recorded trial of the drawer and clock mechanism and an inspection of joint or surface condition. At each checkpoint, QC compares the result with the criterion. A non-conforming result is recorded, prevented from moving forward and referred for a teacher-approved correction under the relevant SOP before it is retested. Final QA reviews whether the planned tests and QC decisions occurred, then checks that the completed Clock and folio evidence agree. Testing therefore supplies results, QC controls the product during production and QA plans and verifies the whole system."
   },
   {
     "title": "2. Prove: Revising Clock theory and using feedback",

@@ -77,21 +77,21 @@ window.MC_QUESTIONS = [
     ]
   },
   {
-    "question": "A student is preparing for “Technical sketches, orthographic views and clear communication”. Which principle should control the decision?",
+    "question": "Why is graphical literacy important across timber work, design, construction and manufacturing?",
     "options": [
-      "drawings communicate shape, size, relationship and approved change more precisely than memory",
-      "an attractive sketch without controlled dimensions may be unsuitable for manufacture",
-      "The final appearance can replace process checks.",
-      "A remembered value is sufficient when the drawing is nearby."
+      "It lets people interpret shared views, symbols, written dimensions, annotations and revisions so intent can be handed over and checked accurately",
+      "It means every industry uses identical symbols, so legends and project conventions are unnecessary",
+      "It mainly makes portfolio pages attractive after production is complete",
+      "It removes the need to confirm the approved drawing or use written dimensions"
     ],
     "correct": 0,
-    "hint": "Return to the opening and key-idea statements in “Technical sketches, orthographic views and clear communication”.",
-    "strongHint": "Choose the principle supported by the approved Clock sources: drawings communicate shape, size, relationship and approved change more precisely than memory.",
+    "hint": "Think about how graphical information moves between people who design, make, assemble and inspect work.",
+    "strongHint": "Choose the option that supports accurate interpretation, hand-over and checking while still requiring approved conventions.",
     "feedback": [
-      "drawings communicate shape, size, relationship and approved change more precisely than memory",
-      "That describes a warning sign rather than the principle that should guide the work.",
-      "Appearance is only one part of the practical and evidence requirements.",
-      "Verified project information must replace memory or guessing."
+      "Shared graphical information carries design intent through timber work, design, construction and manufacturing so it can be made and verified accurately.",
+      "Conventions vary between industries and projects; readers must confirm the approved drawing, legend and authority.",
+      "Graphical literacy controls real planning, manufacture, assembly and inspection, not decoration alone.",
+      "Written dimensions and the approved source remain essential because displayed or printed images can change scale."
     ]
   },
   {
@@ -269,96 +269,121 @@ window.WRITTEN_QUESTIONS = [
     "model": "A defensible design decision explains how the approved choice improves the Clock while still meeting function, manufacture and assessment requirements."
   },
   {
-    "title": "2. Prove: Technical sketches, orthographic views and clear communication",
-    "prompt": "Plan how “a dated drawing or sketch that another person can interpret accurately” would prove the learning in this section. Explain what the evidence must show and why it is stronger than an unsupported final photograph.",
-    "clarification": "What evidence would prove the learning? What must it show, and why is it stronger than a final photo?",
-    "minWords": 65,
+    "title": "2. Apply graphical literacy across industries",
+    "prompt": "Explain why graphical literacy matters in timber work, design, construction and manufacturing. Give one practical example in each context, then use a Clock dimension, view or annotation to show how accurate graphical communication supports design, manufacture or assembly and quality checking. Identify one risk of misreading it and one control.",
+    "clarification": "How does graphical information support each industry, and how would one verified Clock example move from intent to making and checking?",
+    "minWords": 100,
     "concepts": [
       {
-        "label": "orthographic",
+        "label": "graphical literacy",
         "terms": [
+          "graphical",
           "orthographic",
-          "dimension"
+          "view",
+          "symbol",
+          "dimension",
+          "annotation"
+        ]
+      },
+      {
+        "label": "industries",
+        "terms": [
+          "timber",
+          "design",
+          "construction",
+          "manufacturing"
         ]
       },
       {
         "label": "Clock application",
         "terms": [
           "clock",
-          "project",
+          "drawing",
           "component",
-          "stage"
+          "assembly",
+          "quality"
         ]
       },
       {
-        "label": "verified check",
+        "label": "communication control",
         "terms": [
           "check",
-          "evidence",
-          "drawing",
-          "brief",
+          "ambiguity",
           "approved",
-          "teacher"
+          "legend",
+          "revision",
+          "written dimension"
         ]
       }
     ],
     "scaffold": [
-      "The evidence should show…",
-      "This links to the approved process because…",
-      "It is convincing when…"
+      "Graphical literacy is important because…",
+      "In timber work, design, construction and manufacturing…",
+      "For the Clock, the graphical information is…",
+      "If it were misread…",
+      "I would control that risk by…"
     ],
     "prompts": [
-      "Use a specific idea from “Technical sketches, orthographic views and clear communication”.",
-      "Apply it to an actual Clock stage or decision.",
-      "Finish with a verified check or evidence statement."
+      "Give one specific graphical-literacy example for each of the four named industry contexts.",
+      "Use a written dimension, orthographic view, symbol, label, annotation or revision as the Clock example.",
+      "Trace how the information guides design intent, making or assembly and a quality check.",
+      "Explain the consequence of ambiguity or a superseded drawing.",
+      "Confirm the approved drawing, legend and revision rather than assuming every industry uses identical conventions."
     ],
-    "model": "Clear technical communication selects the right view and makes the controlling information explicit without scaling the picture."
+    "model": "Graphical literacy lets the people who design, make, assemble and inspect a product understand the same intent. A timber worker reads component and joinery details; a designer develops views and annotations; a construction team coordinates plans, elevations and details; and a manufacturer uses production, assembly and inspection drawings. For the Clock, a written face-opening dimension and its view can move from the approved design to marking and manufacture, assembly and the final quality check. If the view or revision is misread, the opening may be misplaced and later work affected. I would confirm the written dimension, projection method, legend, current revision and approval. I would not scale the displayed image or assume that every industry uses identical conventions."
   },
   {
     "title": "3. Decision: Current and emerging timber technologies connected to the Clock",
-    "prompt": "Use one real Clock stage to explain why “technology should be evaluated for accuracy, safety, waste, skill and access rather than assumed to be better”. Describe the decision and how you would compare the verified hand or school process with an appropriate industry method.",
-    "clarification": "How does Current and emerging timber technologies connected to the Clock affect the project? What decision and check would you use?",
-    "minWords": 65,
+    "prompt": "Plan one teacher-approved digital-to-physical Clock test, then compare it with the verified hand or school process. Explain the file and output checks, accuracy, safety, waste and environmental or social impacts. Finish by evaluating how the technology changes one timber-industry career, enterprise opportunity or required skill set.",
+    "clarification": "What digital detail will you test, how will you verify the physical result, what wider impacts matter, and how does the technology change work or enterprise?",
+    "minWords": 100,
     "concepts": [
       {
-        "label": "technology",
+        "label": "digital-to-physical test",
         "terms": [
-          "technology",
-          "industry"
+          "digital",
+          "file",
+          "output",
+          "test"
         ]
       },
       {
-        "label": "Clock application",
+        "label": "verified Clock application",
         "terms": [
           "clock",
           "project",
           "component",
-          "stage"
+          "dimension",
+          "drawing",
+          "accuracy"
         ]
       },
       {
-        "label": "verified check",
+        "label": "industry impact and pathway",
         "terms": [
-          "check",
-          "evidence",
-          "drawing",
-          "brief",
-          "approved",
-          "teacher"
+          "career",
+          "enterprise",
+          "skill",
+          "society",
+          "environment",
+          "sustainability"
         ]
       }
     ],
     "scaffold": [
-      "At this Clock stage…",
-      "The controlling principle is…",
-      "I would verify it by…"
+      "The teacher-approved digital detail is…",
+      "Before output I would verify…",
+      "Compared with the hand or school process…",
+      "The social or environmental impact is…",
+      "For the selected career or enterprise, this changes…"
     ],
     "prompts": [
-      "Use a specific idea from “Current and emerging timber technologies connected to the Clock”.",
-      "Apply it to an actual Clock stage or decision.",
-      "Finish with a verified check or evidence statement."
+      "Link the digital file to a real Clock detail, test piece, template or jig.",
+      "Include file units, dimensions, version and an output quality check.",
+      "Compare safety, waste, energy or other social and environmental impacts.",
+      "Evaluate a named timber-industry career, enterprise pathway or changing skill requirement."
     ],
-    "model": "A strong comparison explains what changes, what remains important and when the technology would or would not suit the Clock process."
+    "model": "With teacher approval, I would create a dimensioned digital template for one Clock detail. I would verify units, dimensions, origin, file name and version before producing a paper simulation or authorised test piece. I would compare the output with the drawing and record accuracy, setup, safety controls, waste and one correction. Compared with a hand method, the digital process may improve repeatability but needs verified data, equipment access and energy, dust and waste controls. For a CAD/CAM or small-enterprise pathway, the technology increases the need for digital drawing, file management, troubleshooting, communication and sustainable production judgement while accurate measuring and material knowledge remain essential."
   },
   {
     "title": "4. Connect the week’s decisions",
